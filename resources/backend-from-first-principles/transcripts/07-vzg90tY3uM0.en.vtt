@@ -1,0 +1,3880 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.120 --> 00:00:01.550 align:start position:0%
+ 
+what<00:00:00.399><c> is</c><00:00:00.599><c> serialization</c><00:00:01.199><c> and</c><00:00:01.360><c> der</c>
+
+00:00:01.550 --> 00:00:01.560 align:start position:0%
+what is serialization and der
+ 
+
+00:00:01.560 --> 00:00:03.590 align:start position:0%
+what is serialization and der
+serialization<00:00:02.320><c> okay</c><00:00:02.560><c> let's</c><00:00:02.840><c> look</c><00:00:03.000><c> at</c><00:00:03.199><c> this</c><00:00:03.480><c> we</c>
+
+00:00:03.590 --> 00:00:03.600 align:start position:0%
+serialization okay let's look at this we
+ 
+
+00:00:03.600 --> 00:00:06.349 align:start position:0%
+serialization okay let's look at this we
+have<00:00:03.760><c> already</c><00:00:04.080><c> discussed</c><00:00:04.560><c> this</c><00:00:04.880><c> that</c><00:00:05.560><c> usually</c>
+
+00:00:06.349 --> 00:00:06.359 align:start position:0%
+have already discussed this that usually
+ 
+
+00:00:06.359 --> 00:00:09.790 align:start position:0%
+have already discussed this that usually
+we<00:00:07.200><c> have</c><00:00:07.359><c> a</c><00:00:07.520><c> client</c><00:00:08.519><c> let's</c><00:00:08.719><c> say</c><00:00:08.960><c> we</c><00:00:09.080><c> have</c><00:00:09.280><c> this</c>
+
+00:00:09.790 --> 00:00:09.800 align:start position:0%
+we have a client let's say we have this
+ 
+
+00:00:09.800 --> 00:00:12.789 align:start position:0%
+we have a client let's say we have this
+client<00:00:10.800><c> it's</c><00:00:10.960><c> a</c><00:00:11.440><c> browser</c><00:00:11.920><c> all</c><00:00:12.120><c> right</c><00:00:12.480><c> it's</c><00:00:12.639><c> a</c>
+
+00:00:12.789 --> 00:00:12.799 align:start position:0%
+client it's a browser all right it's a
+ 
+
+00:00:12.799 --> 00:00:17.109 align:start position:0%
+client it's a browser all right it's a
+browser<00:00:13.639><c> let's</c><00:00:13.839><c> say</c><00:00:13.960><c> it's</c><00:00:14.559><c> Chrome</c><00:00:15.640><c> and</c><00:00:16.640><c> this</c>
+
+00:00:17.109 --> 00:00:17.119 align:start position:0%
+browser let's say it's Chrome and this
+ 
+
+00:00:17.119 --> 00:00:20.910 align:start position:0%
+browser let's say it's Chrome and this
+is<00:00:17.400><c> called</c><00:00:18.400><c> front</c><00:00:18.680><c> end</c><00:00:19.199><c> right</c><00:00:19.680><c> in</c><00:00:19.840><c> our</c><00:00:20.160><c> typical</c>
+
+00:00:20.910 --> 00:00:20.920 align:start position:0%
+is called front end right in our typical
+ 
+
+00:00:20.920 --> 00:00:24.990 align:start position:0%
+is called front end right in our typical
+technical<00:00:21.800><c> language</c><00:00:22.800><c> and</c><00:00:23.599><c> usually</c><00:00:24.480><c> we</c>
+
+00:00:24.990 --> 00:00:25.000 align:start position:0%
+technical language and usually we
+ 
+
+00:00:25.000 --> 00:00:27.269 align:start position:0%
+technical language and usually we
+communicate<00:00:26.000><c> with</c><00:00:26.119><c> a</c>
+
+00:00:27.269 --> 00:00:27.279 align:start position:0%
+communicate with a
+ 
+
+00:00:27.279 --> 00:00:30.390 align:start position:0%
+communicate with a
+server<00:00:28.279><c> that's</c><00:00:28.760><c> running</c><00:00:29.119><c> in</c><00:00:29.279><c> your</c><00:00:29.519><c> Local</c><00:00:29.800><c> Host</c>
+
+00:00:30.390 --> 00:00:30.400 align:start position:0%
+server that's running in your Local Host
+ 
+
+00:00:30.400 --> 00:00:33.030 align:start position:0%
+server that's running in your Local Host
+or<00:00:31.039><c> it's</c><00:00:31.240><c> running</c><00:00:31.679><c> somewhere</c><00:00:32.119><c> remote</c><00:00:32.840><c> in</c>
+
+00:00:33.030 --> 00:00:33.040 align:start position:0%
+or it's running somewhere remote in
+ 
+
+00:00:33.040 --> 00:00:36.910 align:start position:0%
+or it's running somewhere remote in
+cloud<00:00:33.600><c> in</c><00:00:33.760><c> AWS</c><00:00:34.320><c> or</c><00:00:34.480><c> gcp</c><00:00:35.160><c> or</c><00:00:35.399><c> Azure</c><00:00:36.360><c> anywhere</c>
+
+00:00:36.910 --> 00:00:36.920 align:start position:0%
+cloud in AWS or gcp or Azure anywhere
+ 
+
+00:00:36.920 --> 00:00:40.029 align:start position:0%
+cloud in AWS or gcp or Azure anywhere
+and<00:00:37.600><c> the</c><00:00:37.840><c> client</c><00:00:38.719><c> communicates</c><00:00:39.719><c> with</c><00:00:39.879><c> the</c>
+
+00:00:40.029 --> 00:00:40.039 align:start position:0%
+and the client communicates with the
+ 
+
+00:00:40.039 --> 00:00:42.630 align:start position:0%
+and the client communicates with the
+server<00:00:40.520><c> through</c><00:00:40.920><c> some</c><00:00:41.440><c> means</c><00:00:41.840><c> of</c><00:00:42.120><c> network</c>
+
+00:00:42.630 --> 00:00:42.640 align:start position:0%
+server through some means of network
+ 
+
+00:00:42.640 --> 00:00:45.869 align:start position:0%
+server through some means of network
+communication<00:00:43.440><c> it</c><00:00:43.559><c> can</c><00:00:43.760><c> be</c><00:00:44.200><c> through</c><00:00:45.039><c> HTTP</c>
+
+00:00:45.869 --> 00:00:45.879 align:start position:0%
+communication it can be through HTTP
+ 
+
+00:00:45.879 --> 00:00:48.270 align:start position:0%
+communication it can be through HTTP
+right<00:00:46.120><c> our</c><00:00:46.480><c> traditional</c><00:00:47.280><c> rest</c><00:00:47.640><c> API</c><00:00:48.000><c> end</c>
+
+00:00:48.270 --> 00:00:48.280 align:start position:0%
+right our traditional rest API end
+ 
+
+00:00:48.280 --> 00:00:51.510 align:start position:0%
+right our traditional rest API end
+points<00:00:48.800><c> or</c><00:00:49.280><c> it</c><00:00:49.440><c> can</c><00:00:49.600><c> be</c><00:00:49.800><c> through</c><00:00:50.120><c> grpc</c><00:00:51.079><c> or</c><00:00:51.399><c> it</c>
+
+00:00:51.510 --> 00:00:51.520 align:start position:0%
+points or it can be through grpc or it
+ 
+
+00:00:51.520 --> 00:00:53.389 align:start position:0%
+points or it can be through grpc or it
+can<00:00:51.760><c> be</c><00:00:52.000><c> through</c><00:00:52.399><c> websocket</c><00:00:53.039><c> we</c><00:00:53.160><c> have</c>
+
+00:00:53.389 --> 00:00:53.399 align:start position:0%
+can be through websocket we have
+ 
+
+00:00:53.399 --> 00:00:55.590 align:start position:0%
+can be through websocket we have
+different<00:00:53.960><c> means</c><00:00:54.199><c> of</c><00:00:54.399><c> communications</c><00:00:55.199><c> for</c>
+
+00:00:55.590 --> 00:00:55.600 align:start position:0%
+different means of communications for
+ 
+
+00:00:55.600 --> 00:00:57.830 align:start position:0%
+different means of communications for
+clients<00:00:56.039><c> and</c><00:00:56.280><c> servers</c><00:00:56.760><c> to</c><00:00:57.160><c> communicate</c><00:00:57.680><c> with</c>
+
+00:00:57.830 --> 00:00:57.840 align:start position:0%
+clients and servers to communicate with
+ 
+
+00:00:57.840 --> 00:00:59.389 align:start position:0%
+clients and servers to communicate with
+each<00:00:57.960><c> other</c><00:00:58.239><c> for</c><00:00:58.440><c> this</c><00:00:58.640><c> example</c><00:00:59.079><c> and</c>
+
+00:00:59.389 --> 00:00:59.399 align:start position:0%
+each other for this example and
+ 
+
+00:00:59.399 --> 00:01:01.270 align:start position:0%
+each other for this example and
+throughout<00:00:59.760><c> the</c><00:01:00.120><c> series</c><00:01:00.600><c> since</c><00:01:00.920><c> we</c><00:01:01.079><c> are</c>
+
+00:01:01.270 --> 00:01:01.280 align:start position:0%
+throughout the series since we are
+ 
+
+00:01:01.280 --> 00:01:04.750 align:start position:0%
+throughout the series since we are
+focusing<00:01:01.840><c> on</c><00:01:02.280><c> HTTP</c><00:01:03.079><c> or</c><00:01:03.399><c> our</c><00:01:03.719><c> traditional</c><00:01:04.400><c> rest</c>
+
+00:01:04.750 --> 00:01:04.760 align:start position:0%
+focusing on HTTP or our traditional rest
+ 
+
+00:01:04.760 --> 00:01:07.230 align:start position:0%
+focusing on HTTP or our traditional rest
+API<00:01:05.199><c> style</c><00:01:05.519><c> communication</c><00:01:06.360><c> let's</c><00:01:06.680><c> assume</c>
+
+00:01:07.230 --> 00:01:07.240 align:start position:0%
+API style communication let's assume
+ 
+
+00:01:07.240 --> 00:01:09.310 align:start position:0%
+API style communication let's assume
+this<00:01:07.479><c> client</c><00:01:08.000><c> is</c><00:01:08.119><c> a</c><00:01:08.320><c> Javascript</c><00:01:08.840><c> app</c><00:01:09.000><c> can</c><00:01:09.119><c> be</c><00:01:09.240><c> a</c>
+
+00:01:09.310 --> 00:01:09.320 align:start position:0%
+this client is a Javascript app can be a
+ 
+
+00:01:09.320 --> 00:01:11.990 align:start position:0%
+this client is a Javascript app can be a
+react<00:01:09.720><c> or</c><00:01:09.880><c> angular</c><00:01:10.320><c> or</c><00:01:10.479><c> view</c><00:01:11.040><c> any</c><00:01:11.479><c> JavaScript</c>
+
+00:01:11.990 --> 00:01:12.000 align:start position:0%
+react or angular or view any JavaScript
+ 
+
+00:01:12.000 --> 00:01:13.749 align:start position:0%
+react or angular or view any JavaScript
+framework<00:01:12.439><c> or</c><00:01:12.600><c> Library</c><00:01:13.000><c> it's</c><00:01:13.119><c> a</c><00:01:13.280><c> Javascript</c>
+
+00:01:13.749 --> 00:01:13.759 align:start position:0%
+framework or Library it's a Javascript
+ 
+
+00:01:13.759 --> 00:01:15.870 align:start position:0%
+framework or Library it's a Javascript
+app<00:01:13.960><c> usually</c><00:01:14.360><c> most</c><00:01:14.560><c> of</c><00:01:14.720><c> the</c><00:01:15.080><c> client</c><00:01:15.479><c> side</c><00:01:15.640><c> apps</c>
+
+00:01:15.870 --> 00:01:15.880 align:start position:0%
+app usually most of the client side apps
+ 
+
+00:01:15.880 --> 00:01:17.749 align:start position:0%
+app usually most of the client side apps
+are<00:01:16.320><c> built</c><00:01:16.799><c> with</c><00:01:16.960><c> JavaScript</c><00:01:17.520><c> highly</c>
+
+00:01:17.749 --> 00:01:17.759 align:start position:0%
+are built with JavaScript highly
+ 
+
+00:01:17.759 --> 00:01:19.749 align:start position:0%
+are built with JavaScript highly
+interactive<00:01:18.240><c> app</c><00:01:18.479><c> in</c><00:01:18.600><c> order</c><00:01:18.880><c> to</c><00:01:19.159><c> send</c><00:01:19.560><c> a</c>
+
+00:01:19.749 --> 00:01:19.759 align:start position:0%
+interactive app in order to send a
+ 
+
+00:01:19.759 --> 00:01:22.510 align:start position:0%
+interactive app in order to send a
+request<00:01:20.200><c> to</c><00:01:20.400><c> the</c><00:01:20.560><c> server</c><00:01:21.159><c> the</c><00:01:21.400><c> client</c><00:01:22.119><c> has</c><00:01:22.320><c> to</c>
+
+00:01:22.510 --> 00:01:22.520 align:start position:0%
+request to the server the client has to
+ 
+
+00:01:22.520 --> 00:01:24.710 align:start position:0%
+request to the server the client has to
+make<00:01:22.720><c> an</c><00:01:22.960><c> HTTP</c><00:01:23.600><c> request</c><00:01:24.119><c> which</c><00:01:24.439><c> we</c><00:01:24.520><c> have</c>
+
+00:01:24.710 --> 00:01:24.720 align:start position:0%
+make an HTTP request which we have
+ 
+
+00:01:24.720 --> 00:01:27.149 align:start position:0%
+make an HTTP request which we have
+already<00:01:25.079><c> discussed</c><00:01:25.560><c> in</c><00:01:25.720><c> the</c><00:01:26.000><c> previous</c><00:01:26.400><c> videos</c>
+
+00:01:27.149 --> 00:01:27.159 align:start position:0%
+already discussed in the previous videos
+ 
+
+00:01:27.159 --> 00:01:31.149 align:start position:0%
+already discussed in the previous videos
+looks<00:01:27.479><c> something</c><00:01:27.840><c> like</c><00:01:28.079><c> this</c><00:01:29.079><c> get</c><00:01:30.280><c> etc</c><00:01:30.680><c> etc</c>
+
+00:01:31.149 --> 00:01:31.159 align:start position:0%
+looks something like this get etc etc
+ 
+
+00:01:31.159 --> 00:01:33.710 align:start position:0%
+looks something like this get etc etc
+the<00:01:31.399><c> URL</c><00:01:32.399><c> the</c>
+
+00:01:33.710 --> 00:01:33.720 align:start position:0%
+the URL the
+ 
+
+00:01:33.720 --> 00:01:38.350 align:start position:0%
+the URL the
+HTTP<00:01:34.720><c> right</c><00:01:36.040><c> some</c>
+
+00:01:38.350 --> 00:01:38.360 align:start position:0%
+HTTP right some
+ 
+
+00:01:38.360 --> 00:01:40.109 align:start position:0%
+HTTP right some
+domain.com
+
+00:01:40.109 --> 00:01:40.119 align:start position:0%
+domain.com
+ 
+
+00:01:40.119 --> 00:01:43.190 align:start position:0%
+domain.com
+slath<00:01:41.119><c> something</c><00:01:41.439><c> like</c><00:01:41.680><c> this</c><00:01:42.680><c> so</c><00:01:42.840><c> either</c><00:01:43.040><c> a</c>
+
+00:01:43.190 --> 00:01:43.200 align:start position:0%
+slath something like this so either a
+ 
+
+00:01:43.200 --> 00:01:46.149 align:start position:0%
+slath something like this so either a
+get<00:01:43.399><c> request</c><00:01:43.840><c> or</c><00:01:44.040><c> if</c><00:01:44.159><c> it's</c><00:01:44.320><c> a</c><00:01:44.600><c> post</c><00:01:45.000><c> request</c><00:01:46.000><c> we</c>
+
+00:01:46.149 --> 00:01:46.159 align:start position:0%
+get request or if it's a post request we
+ 
+
+00:01:46.159 --> 00:01:49.109 align:start position:0%
+get request or if it's a post request we
+have<00:01:46.360><c> the</c><00:01:46.560><c> URL</c><00:01:47.360><c> and</c><00:01:47.799><c> Below</c><00:01:48.240><c> we</c><00:01:48.479><c> have</c><00:01:48.960><c> the</c>
+
+00:01:49.109 --> 00:01:49.119 align:start position:0%
+have the URL and Below we have the
+ 
+
+00:01:49.119 --> 00:01:53.950 align:start position:0%
+have the URL and Below we have the
+headers<00:01:49.880><c> and</c><00:01:50.680><c> below</c><00:01:51.280><c> that</c><00:01:52.280><c> we</c><00:01:52.479><c> have</c><00:01:52.960><c> the</c>
+
+00:01:53.950 --> 00:01:53.960 align:start position:0%
+headers and below that we have the
+ 
+
+00:01:53.960 --> 00:01:56.630 align:start position:0%
+headers and below that we have the
+request<00:01:54.320><c> body</c><00:01:55.159><c> and</c><00:01:55.479><c> this</c><00:01:55.600><c> is</c><00:01:55.799><c> how</c><00:01:56.039><c> front</c><00:01:56.320><c> end</c>
+
+00:01:56.630 --> 00:01:56.640 align:start position:0%
+request body and this is how front end
+ 
+
+00:01:56.640 --> 00:02:00.469 align:start position:0%
+request body and this is how front end
+sends<00:01:57.159><c> the</c><00:01:57.360><c> data</c><00:01:58.159><c> the</c><00:01:58.560><c> request</c><00:01:59.560><c> with</c><00:02:00.039><c> all</c><00:02:00.240><c> the</c>
+
+00:02:00.469 --> 00:02:00.479 align:start position:0%
+sends the data the request with all the
+ 
+
+00:02:00.479 --> 00:02:03.190 align:start position:0%
+sends the data the request with all the
+information<00:02:01.360><c> that</c><00:02:01.479><c> is</c><00:02:01.680><c> required</c><00:02:02.479><c> or</c><00:02:02.880><c> the</c>
+
+00:02:03.190 --> 00:02:03.200 align:start position:0%
+information that is required or the
+ 
+
+00:02:03.200 --> 00:02:05.830 align:start position:0%
+information that is required or the
+client<00:02:03.600><c> wants</c><00:02:03.920><c> to</c><00:02:04.159><c> send</c><00:02:04.560><c> to</c><00:02:04.719><c> the</c><00:02:04.880><c> server</c><00:02:05.719><c> this</c>
+
+00:02:05.830 --> 00:02:05.840 align:start position:0%
+client wants to send to the server this
+ 
+
+00:02:05.840 --> 00:02:08.109 align:start position:0%
+client wants to send to the server this
+is<00:02:06.000><c> how</c><00:02:06.320><c> client</c><00:02:06.680><c> sends</c><00:02:07.399><c> information</c><00:02:07.880><c> to</c><00:02:08.000><c> the</c>
+
+00:02:08.109 --> 00:02:08.119 align:start position:0%
+is how client sends information to the
+ 
+
+00:02:08.119 --> 00:02:10.510 align:start position:0%
+is how client sends information to the
+server<00:02:08.479><c> and</c><00:02:08.679><c> the</c><00:02:08.800><c> server</c><00:02:09.200><c> responds</c><00:02:10.080><c> with</c><00:02:10.280><c> some</c>
+
+00:02:10.510 --> 00:02:10.520 align:start position:0%
+server and the server responds with some
+ 
+
+00:02:10.520 --> 00:02:12.630 align:start position:0%
+server and the server responds with some
+response<00:02:11.440><c> which</c><00:02:11.599><c> the</c><00:02:11.760><c> client</c><00:02:12.040><c> is</c><00:02:12.200><c> able</c><00:02:12.400><c> to</c>
+
+00:02:12.630 --> 00:02:12.640 align:start position:0%
+response which the client is able to
+ 
+
+00:02:12.640 --> 00:02:16.309 align:start position:0%
+response which the client is able to
+pass<00:02:13.120><c> and</c><00:02:14.000><c> make</c><00:02:14.239><c> sense</c><00:02:14.560><c> of</c><00:02:15.239><c> so</c><00:02:15.480><c> the</c><00:02:15.640><c> thing</c><00:02:16.000><c> to</c>
+
+00:02:16.309 --> 00:02:16.319 align:start position:0%
+pass and make sense of so the thing to
+ 
+
+00:02:16.319 --> 00:02:18.589 align:start position:0%
+pass and make sense of so the thing to
+notice<00:02:16.760><c> here</c><00:02:16.959><c> and</c><00:02:17.160><c> the</c><00:02:17.360><c> thing</c><00:02:17.560><c> to</c><00:02:17.800><c> focus</c><00:02:18.239><c> here</c>
+
+00:02:18.589 --> 00:02:18.599 align:start position:0%
+notice here and the thing to focus here
+ 
+
+00:02:18.599 --> 00:02:21.509 align:start position:0%
+notice here and the thing to focus here
+in<00:02:18.920><c> this</c><00:02:19.239><c> chapter</c><00:02:19.720><c> or</c><00:02:20.080><c> in</c><00:02:20.319><c> this</c><00:02:20.640><c> session</c><00:02:21.160><c> is</c>
+
+00:02:21.509 --> 00:02:21.519 align:start position:0%
+in this chapter or in this session is
+ 
+
+00:02:21.519 --> 00:02:24.270 align:start position:0%
+in this chapter or in this session is
+how<00:02:21.920><c> clients</c><00:02:22.480><c> and</c><00:02:22.760><c> servers</c><00:02:23.239><c> can</c><00:02:23.519><c> make</c><00:02:23.879><c> sense</c>
+
+00:02:24.270 --> 00:02:24.280 align:start position:0%
+how clients and servers can make sense
+ 
+
+00:02:24.280 --> 00:02:27.030 align:start position:0%
+how clients and servers can make sense
+of<00:02:24.519><c> the</c><00:02:24.760><c> data</c><00:02:25.239><c> that</c><00:02:25.400><c> is</c><00:02:25.680><c> being</c><00:02:26.200><c> received</c><00:02:26.680><c> or</c>
+
+00:02:27.030 --> 00:02:27.040 align:start position:0%
+of the data that is being received or
+ 
+
+00:02:27.040 --> 00:02:29.350 align:start position:0%
+of the data that is being received or
+the<00:02:27.200><c> data</c><00:02:27.519><c> that</c><00:02:27.680><c> is</c><00:02:27.920><c> being</c><00:02:28.200><c> sent</c><00:02:28.640><c> for</c><00:02:28.840><c> example</c>
+
+00:02:29.350 --> 00:02:29.360 align:start position:0%
+the data that is being sent for example
+ 
+
+00:02:29.360 --> 00:02:32.270 align:start position:0%
+the data that is being sent for example
+in<00:02:29.480><c> our</c><00:02:29.680><c> case</c><00:02:30.319><c> the</c><00:02:30.480><c> client</c><00:02:31.000><c> is</c><00:02:31.200><c> a</c><00:02:31.440><c> Javascript</c>
+
+00:02:32.270 --> 00:02:32.280 align:start position:0%
+in our case the client is a Javascript
+ 
+
+00:02:32.280 --> 00:02:36.110 align:start position:0%
+in our case the client is a Javascript
+app<00:02:33.280><c> and</c><00:02:33.519><c> the</c><00:02:33.720><c> server</c><00:02:34.160><c> can</c><00:02:34.360><c> be</c><00:02:34.560><c> a</c><00:02:34.840><c> rust</c><00:02:35.280><c> app</c>
+
+00:02:36.110 --> 00:02:36.120 align:start position:0%
+app and the server can be a rust app
+ 
+
+00:02:36.120 --> 00:02:40.149 align:start position:0%
+app and the server can be a rust app
+right<00:02:37.000><c> the</c><00:02:37.280><c> web</c><00:02:37.519><c> server</c><00:02:38.519><c> is</c><00:02:38.720><c> built</c><00:02:39.120><c> with</c><00:02:39.360><c> rust</c>
+
+00:02:40.149 --> 00:02:40.159 align:start position:0%
+right the web server is built with rust
+ 
+
+00:02:40.159 --> 00:02:43.110 align:start position:0%
+right the web server is built with rust
+language<00:02:41.360><c> so</c><00:02:42.360><c> in</c>
+
+00:02:43.110 --> 00:02:43.120 align:start position:0%
+language so in
+ 
+
+00:02:43.120 --> 00:02:45.910 align:start position:0%
+language so in
+JavaScript<00:02:44.120><c> let's</c><00:02:44.360><c> say</c><00:02:44.680><c> we</c><00:02:44.800><c> are</c><00:02:44.959><c> sending</c><00:02:45.480><c> this</c>
+
+00:02:45.910 --> 00:02:45.920 align:start position:0%
+JavaScript let's say we are sending this
+ 
+
+00:02:45.920 --> 00:02:49.990 align:start position:0%
+JavaScript let's say we are sending this
+object<00:02:46.720><c> right</c><00:02:47.360><c> and</c><00:02:47.840><c> we</c><00:02:48.080><c> have</c>
+
+00:02:49.990 --> 00:02:50.000 align:start position:0%
+object right and we have
+ 
+
+00:02:50.000 --> 00:02:54.830 align:start position:0%
+object right and we have
+name<00:02:51.000><c> is</c><00:02:51.640><c> some</c>
+
+00:02:54.830 --> 00:02:54.840 align:start position:0%
+ 
+ 
+
+00:02:54.840 --> 00:02:59.110 align:start position:0%
+ 
+string<00:02:55.840><c> we</c><00:02:56.000><c> are</c><00:02:56.120><c> sending</c><00:02:56.840><c> this</c><00:02:57.840><c> and</c><00:02:58.640><c> after</c><00:02:58.920><c> we</c>
+
+00:02:59.110 --> 00:02:59.120 align:start position:0%
+string we are sending this and after we
+ 
+
+00:02:59.120 --> 00:03:00.589 align:start position:0%
+string we are sending this and after we
+send<00:02:59.560><c> this</c>
+
+00:03:00.589 --> 00:03:00.599 align:start position:0%
+send this
+ 
+
+00:03:00.599 --> 00:03:03.229 align:start position:0%
+send this
+in<00:03:00.800><c> the</c><00:03:01.000><c> request</c><00:03:01.400><c> body</c><00:03:02.319><c> and</c><00:03:02.480><c> it</c><00:03:02.680><c> reaches</c><00:03:03.080><c> the</c>
+
+00:03:03.229 --> 00:03:03.239 align:start position:0%
+in the request body and it reaches the
+ 
+
+00:03:03.239 --> 00:03:06.789 align:start position:0%
+in the request body and it reaches the
+server<00:03:03.840><c> which</c><00:03:04.040><c> is</c><00:03:04.200><c> a</c><00:03:04.840><c> rust</c>
+
+00:03:06.789 --> 00:03:06.799 align:start position:0%
+server which is a rust
+ 
+
+00:03:06.799 --> 00:03:10.430 align:start position:0%
+server which is a rust
+server<00:03:07.799><c> how</c><00:03:08.120><c> does</c><00:03:08.319><c> the</c><00:03:08.680><c> server</c><00:03:09.680><c> take</c><00:03:10.159><c> this</c>
+
+00:03:10.430 --> 00:03:10.440 align:start position:0%
+server how does the server take this
+ 
+
+00:03:10.440 --> 00:03:14.470 align:start position:0%
+server how does the server take this
+data<00:03:11.400><c> and</c><00:03:11.680><c> is</c><00:03:12.040><c> able</c><00:03:12.360><c> to</c><00:03:12.680><c> make</c><00:03:13.040><c> sense</c><00:03:13.400><c> of</c><00:03:13.599><c> it</c><00:03:14.319><c> it</c>
+
+00:03:14.470 --> 00:03:14.480 align:start position:0%
+data and is able to make sense of it it
+ 
+
+00:03:14.480 --> 00:03:18.030 align:start position:0%
+data and is able to make sense of it it
+is<00:03:14.720><c> able</c><00:03:15.040><c> to</c><00:03:15.920><c> make</c><00:03:16.280><c> sense</c><00:03:16.560><c> of</c><00:03:16.760><c> it</c><00:03:17.040><c> in</c><00:03:17.200><c> its</c><00:03:17.599><c> own</c>
+
+00:03:18.030 --> 00:03:18.040 align:start position:0%
+is able to make sense of it in its own
+ 
+
+00:03:18.040 --> 00:03:22.350 align:start position:0%
+is able to make sense of it in its own
+format<00:03:18.720><c> in</c><00:03:18.959><c> its</c><00:03:19.200><c> own</c><00:03:20.120><c> data</c><00:03:20.440><c> types</c><00:03:21.239><c> because</c>
+
+00:03:22.350 --> 00:03:22.360 align:start position:0%
+format in its own data types because
+ 
+
+00:03:22.360 --> 00:03:25.390 align:start position:0%
+format in its own data types because
+JavaScript<00:03:23.360><c> and</c><00:03:23.640><c> rust</c><00:03:24.400><c> have</c><00:03:24.720><c> completely</c>
+
+00:03:25.390 --> 00:03:25.400 align:start position:0%
+JavaScript and rust have completely
+ 
+
+00:03:25.400 --> 00:03:27.509 align:start position:0%
+JavaScript and rust have completely
+different<00:03:25.760><c> data</c><00:03:26.040><c> types</c><00:03:26.560><c> JavaScript</c><00:03:27.200><c> is</c><00:03:27.280><c> a</c>
+
+00:03:27.509 --> 00:03:27.519 align:start position:0%
+different data types JavaScript is a
+ 
+
+00:03:27.519 --> 00:03:29.830 align:start position:0%
+different data types JavaScript is a
+completely<00:03:28.200><c> Dynamic</c><00:03:28.680><c> language</c><00:03:29.159><c> it</c><00:03:29.280><c> is</c><00:03:29.400><c> not</c>
+
+00:03:29.830 --> 00:03:29.840 align:start position:0%
+completely Dynamic language it is not
+ 
+
+00:03:29.840 --> 00:03:32.630 align:start position:0%
+completely Dynamic language it is not
+compiled<00:03:30.599><c> on</c><00:03:30.760><c> the</c><00:03:30.879><c> other</c><00:03:31.159><c> side</c><00:03:31.400><c> rust</c><00:03:31.879><c> is</c><00:03:32.360><c> very</c>
+
+00:03:32.630 --> 00:03:32.640 align:start position:0%
+compiled on the other side rust is very
+ 
+
+00:03:32.640 --> 00:03:35.190 align:start position:0%
+compiled on the other side rust is very
+strict<00:03:33.200><c> when</c><00:03:33.360><c> it</c><00:03:33.519><c> comes</c><00:03:33.760><c> to</c><00:03:34.040><c> types</c><00:03:34.760><c> and</c><00:03:34.959><c> it</c><00:03:35.080><c> is</c>
+
+00:03:35.190 --> 00:03:35.200 align:start position:0%
+strict when it comes to types and it is
+ 
+
+00:03:35.200 --> 00:03:37.229 align:start position:0%
+strict when it comes to types and it is
+a<00:03:35.439><c> compiled</c><00:03:35.920><c> language</c><00:03:36.439><c> the</c><00:03:36.560><c> all</c><00:03:36.760><c> the</c><00:03:36.920><c> data</c>
+
+00:03:37.229 --> 00:03:37.239 align:start position:0%
+a compiled language the all the data
+ 
+
+00:03:37.239 --> 00:03:39.390 align:start position:0%
+a compiled language the all the data
+types<00:03:37.879><c> are</c><00:03:38.360><c> completely</c><00:03:38.879><c> different</c><00:03:39.159><c> from</c>
+
+00:03:39.390 --> 00:03:39.400 align:start position:0%
+types are completely different from
+ 
+
+00:03:39.400 --> 00:03:42.789 align:start position:0%
+types are completely different from
+JavaScript<00:03:40.319><c> so</c><00:03:40.920><c> how</c><00:03:41.120><c> does</c><00:03:41.319><c> this</c><00:03:41.519><c> happen</c><00:03:42.080><c> how</c>
+
+00:03:42.789 --> 00:03:42.799 align:start position:0%
+JavaScript so how does this happen how
+ 
+
+00:03:42.799 --> 00:03:45.990 align:start position:0%
+JavaScript so how does this happen how
+one<00:03:43.239><c> data</c><00:03:43.599><c> type</c><00:03:44.239><c> that</c><00:03:44.400><c> is</c><00:03:44.720><c> transmitted</c><00:03:45.439><c> over</c><00:03:45.760><c> a</c>
+
+00:03:45.990 --> 00:03:46.000 align:start position:0%
+one data type that is transmitted over a
+ 
+
+00:03:46.000 --> 00:03:49.949 align:start position:0%
+one data type that is transmitted over a
+network<00:03:47.000><c> is</c><00:03:47.319><c> able</c><00:03:47.599><c> to</c><00:03:47.840><c> reach</c><00:03:48.480><c> another</c><00:03:49.360><c> machine</c>
+
+00:03:49.949 --> 00:03:49.959 align:start position:0%
+network is able to reach another machine
+ 
+
+00:03:49.959 --> 00:03:52.309 align:start position:0%
+network is able to reach another machine
+that<00:03:50.080><c> is</c><00:03:50.239><c> somewhere</c><00:03:50.599><c> else</c><00:03:51.040><c> in</c><00:03:51.159><c> the</c><00:03:51.360><c> internet</c>
+
+00:03:52.309 --> 00:03:52.319 align:start position:0%
+that is somewhere else in the internet
+ 
+
+00:03:52.319 --> 00:03:55.429 align:start position:0%
+that is somewhere else in the internet
+and<00:03:53.159><c> it</c><00:03:53.280><c> is</c><00:03:53.439><c> able</c><00:03:53.799><c> to</c><00:03:54.040><c> make</c><00:03:54.319><c> sense</c><00:03:54.640><c> of</c><00:03:55.200><c> that</c>
+
+00:03:55.429 --> 00:03:55.439 align:start position:0%
+and it is able to make sense of that
+ 
+
+00:03:55.439 --> 00:03:57.990 align:start position:0%
+and it is able to make sense of that
+data<00:03:55.879><c> and</c><00:03:56.159><c> perform</c><00:03:56.599><c> some</c><00:03:56.879><c> business</c><00:03:57.280><c> logic</c><00:03:57.760><c> and</c>
+
+00:03:57.990 --> 00:03:58.000 align:start position:0%
+data and perform some business logic and
+ 
+
+00:03:58.000 --> 00:04:00.910 align:start position:0%
+data and perform some business logic and
+send<00:03:58.560><c> some</c><00:03:58.959><c> response</c>
+
+00:04:00.910 --> 00:04:00.920 align:start position:0%
+send some response
+ 
+
+00:04:00.920 --> 00:04:02.789 align:start position:0%
+send some response
+and<00:04:01.159><c> the</c><00:04:01.319><c> client</c><00:04:01.640><c> is</c><00:04:01.879><c> again</c><00:04:02.120><c> able</c><00:04:02.360><c> to</c><00:04:02.560><c> make</c>
+
+00:04:02.789 --> 00:04:02.799 align:start position:0%
+and the client is again able to make
+ 
+
+00:04:02.799 --> 00:04:07.470 align:start position:0%
+and the client is again able to make
+sense<00:04:03.079><c> of</c><00:04:03.519><c> that</c><00:04:04.239><c> response</c><00:04:05.360><c> and</c><00:04:06.360><c> able</c><00:04:06.640><c> to</c><00:04:07.040><c> show</c>
+
+00:04:07.470 --> 00:04:07.480 align:start position:0%
+sense of that response and able to show
+ 
+
+00:04:07.480 --> 00:04:10.589 align:start position:0%
+sense of that response and able to show
+some<00:04:07.840><c> UI</c><00:04:08.319><c> or</c><00:04:08.560><c> perform</c><00:04:09.000><c> some</c><00:04:09.200><c> business</c><00:04:09.599><c> logic</c>
+
+00:04:10.589 --> 00:04:10.599 align:start position:0%
+some UI or perform some business logic
+ 
+
+00:04:10.599 --> 00:04:12.630 align:start position:0%
+some UI or perform some business logic
+how<00:04:10.799><c> does</c><00:04:11.079><c> this</c><00:04:11.319><c> all</c><00:04:11.680><c> come</c><00:04:12.079><c> together</c><00:04:12.400><c> so</c>
+
+00:04:12.630 --> 00:04:12.640 align:start position:0%
+how does this all come together so
+ 
+
+00:04:12.640 --> 00:04:14.750 align:start position:0%
+how does this all come together so
+before<00:04:12.959><c> we</c><00:04:13.200><c> talk</c><00:04:13.439><c> about</c><00:04:13.840><c> data</c><00:04:14.159><c> transmission</c>
+
+00:04:14.750 --> 00:04:14.760 align:start position:0%
+before we talk about data transmission
+ 
+
+00:04:14.760 --> 00:04:17.469 align:start position:0%
+before we talk about data transmission
+over<00:04:15.040><c> the</c><00:04:15.200><c> Internet</c><00:04:15.799><c> it's</c><00:04:16.440><c> very</c><00:04:16.720><c> good</c><00:04:16.959><c> to</c><00:04:17.199><c> have</c>
+
+00:04:17.469 --> 00:04:17.479 align:start position:0%
+over the Internet it's very good to have
+ 
+
+00:04:17.479 --> 00:04:20.870 align:start position:0%
+over the Internet it's very good to have
+some<00:04:17.759><c> knowledge</c><00:04:18.440><c> about</c><00:04:19.359><c> OSI</c>
+
+00:04:20.870 --> 00:04:20.880 align:start position:0%
+some knowledge about OSI
+ 
+
+00:04:20.880 --> 00:04:23.749 align:start position:0%
+some knowledge about OSI
+model<00:04:21.880><c> if</c><00:04:22.000><c> you're</c><00:04:22.199><c> a</c><00:04:22.360><c> CS</c><00:04:22.840><c> student</c><00:04:23.400><c> you</c><00:04:23.560><c> might</c>
+
+00:04:23.749 --> 00:04:23.759 align:start position:0%
+model if you're a CS student you might
+ 
+
+00:04:23.759 --> 00:04:26.189 align:start position:0%
+model if you're a CS student you might
+have<00:04:24.000><c> already</c><00:04:24.440><c> come</c><00:04:24.680><c> across</c><00:04:25.000><c> it</c><00:04:25.840><c> if</c><00:04:25.960><c> you're</c>
+
+00:04:26.189 --> 00:04:26.199 align:start position:0%
+have already come across it if you're
+ 
+
+00:04:26.199 --> 00:04:29.110 align:start position:0%
+have already come across it if you're
+not<00:04:26.840><c> then</c><00:04:27.840><c> you</c><00:04:28.000><c> don't</c><00:04:28.280><c> have</c><00:04:28.400><c> to</c><00:04:28.639><c> completely</c>
+
+00:04:29.110 --> 00:04:29.120 align:start position:0%
+not then you don't have to completely
+ 
+
+00:04:29.120 --> 00:04:31.749 align:start position:0%
+not then you don't have to completely
+Master<00:04:29.479><c> it</c><00:04:29.800><c> or</c><00:04:30.600><c> understand</c><00:04:30.840><c> every</c><00:04:31.240><c> aspect</c><00:04:31.600><c> of</c>
+
+00:04:31.749 --> 00:04:31.759 align:start position:0%
+Master it or understand every aspect of
+ 
+
+00:04:31.759 --> 00:04:35.029 align:start position:0%
+Master it or understand every aspect of
+it<00:04:32.240><c> like</c><00:04:32.520><c> IP</c><00:04:32.919><c> packets</c><00:04:33.440><c> or</c><00:04:33.720><c> data</c><00:04:34.039><c> frames</c><00:04:34.600><c> etc</c>
+
+00:04:35.029 --> 00:04:35.039 align:start position:0%
+it like IP packets or data frames etc
+ 
+
+00:04:35.039 --> 00:04:37.430 align:start position:0%
+it like IP packets or data frames etc
+etc<00:04:35.440><c> but</c><00:04:35.680><c> having</c><00:04:35.919><c> a</c><00:04:36.600><c> good</c><00:04:36.919><c> high</c><00:04:37.160><c> level</c>
+
+00:04:37.430 --> 00:04:37.440 align:start position:0%
+etc but having a good high level
+ 
+
+00:04:37.440 --> 00:04:39.950 align:start position:0%
+etc but having a good high level
+overview<00:04:38.280><c> or</c><00:04:38.600><c> a</c><00:04:38.800><c> high</c><00:04:39.000><c> level</c><00:04:39.680><c> understanding</c>
+
+00:04:39.950 --> 00:04:39.960 align:start position:0%
+overview or a high level understanding
+ 
+
+00:04:39.960 --> 00:04:41.350 align:start position:0%
+overview or a high level understanding
+of<00:04:40.240><c> how</c>
+
+00:04:41.350 --> 00:04:41.360 align:start position:0%
+of how
+ 
+
+00:04:41.360 --> 00:04:44.990 align:start position:0%
+of how
+these<00:04:42.360><c> OSI</c><00:04:42.840><c> layers</c><00:04:43.400><c> different</c><00:04:44.280><c> layers</c><00:04:44.680><c> of</c>
+
+00:04:44.990 --> 00:04:45.000 align:start position:0%
+these OSI layers different layers of
+ 
+
+00:04:45.000 --> 00:04:48.110 align:start position:0%
+these OSI layers different layers of
+network<00:04:46.120><c> communicate</c><00:04:47.120><c> with</c><00:04:47.320><c> each</c><00:04:47.520><c> other</c><00:04:47.880><c> over</c>
+
+00:04:48.110 --> 00:04:48.120 align:start position:0%
+network communicate with each other over
+ 
+
+00:04:48.120 --> 00:04:50.749 align:start position:0%
+network communicate with each other over
+the<00:04:48.280><c> internet</c><00:04:49.039><c> to</c><00:04:49.320><c> transmit</c><00:04:50.080><c> some</c><00:04:50.360><c> kind</c><00:04:50.520><c> of</c>
+
+00:04:50.749 --> 00:04:50.759 align:start position:0%
+the internet to transmit some kind of
+ 
+
+00:04:50.759 --> 00:04:51.749 align:start position:0%
+the internet to transmit some kind of
+data
+
+00:04:51.749 --> 00:04:51.759 align:start position:0%
+data
+ 
+
+00:04:51.759 --> 00:04:55.870 align:start position:0%
+data
+over<00:04:53.120><c> Hardware</c><00:04:54.240><c> right</c><00:04:55.240><c> we</c><00:04:55.400><c> have</c><00:04:55.600><c> different</c>
+
+00:04:55.870 --> 00:04:55.880 align:start position:0%
+over Hardware right we have different
+ 
+
+00:04:55.880 --> 00:04:57.189 align:start position:0%
+over Hardware right we have different
+types<00:04:56.120><c> of</c><00:04:56.240><c> layers</c><00:04:56.520><c> called</c><00:04:56.759><c> application</c>
+
+00:04:57.189 --> 00:04:57.199 align:start position:0%
+types of layers called application
+ 
+
+00:04:57.199 --> 00:04:59.749 align:start position:0%
+types of layers called application
+layers<00:04:57.840><c> and</c><00:04:58.320><c> network</c><00:04:58.680><c> layers</c><00:04:59.360><c> right</c><00:04:59.680><c> there</c>
+
+00:04:59.749 --> 00:04:59.759 align:start position:0%
+layers and network layers right there
+ 
+
+00:04:59.759 --> 00:05:01.909 align:start position:0%
+layers and network layers right there
+are<00:04:59.880><c> a</c><00:04:59.960><c> lot</c><00:05:00.120><c> of</c><00:05:00.320><c> good</c><00:05:00.520><c> resources</c><00:05:01.120><c> in</c><00:05:01.400><c> YouTube</c>
+
+00:05:01.909 --> 00:05:01.919 align:start position:0%
+are a lot of good resources in YouTube
+ 
+
+00:05:01.919 --> 00:05:04.230 align:start position:0%
+are a lot of good resources in YouTube
+or<00:05:02.240><c> any</c><00:05:02.560><c> other</c><00:05:02.919><c> platform</c><00:05:03.520><c> that</c><00:05:03.759><c> you</c><00:05:03.880><c> can</c><00:05:04.080><c> look</c>
+
+00:05:04.230 --> 00:05:04.240 align:start position:0%
+or any other platform that you can look
+ 
+
+00:05:04.240 --> 00:05:06.189 align:start position:0%
+or any other platform that you can look
+up<00:05:04.520><c> and</c><00:05:04.800><c> just</c><00:05:05.039><c> get</c><00:05:05.199><c> a</c><00:05:05.440><c> high</c><00:05:05.600><c> level</c>
+
+00:05:06.189 --> 00:05:06.199 align:start position:0%
+up and just get a high level
+ 
+
+00:05:06.199 --> 00:05:08.749 align:start position:0%
+up and just get a high level
+understanding<00:05:06.479><c> of</c><00:05:06.639><c> OSI</c><00:05:07.039><c> model</c><00:05:07.440><c> and</c><00:05:07.960><c> going</c><00:05:08.360><c> too</c>
+
+00:05:08.749 --> 00:05:08.759 align:start position:0%
+understanding of OSI model and going too
+ 
+
+00:05:08.759 --> 00:05:11.830 align:start position:0%
+understanding of OSI model and going too
+deep<00:05:09.120><c> into</c><00:05:09.440><c> this</c><00:05:09.880><c> is</c><00:05:10.400><c> out</c><00:05:10.639><c> of</c><00:05:10.880><c> scope</c><00:05:11.240><c> for</c><00:05:11.639><c> this</c>
+
+00:05:11.830 --> 00:05:11.840 align:start position:0%
+deep into this is out of scope for this
+ 
+
+00:05:11.840 --> 00:05:14.230 align:start position:0%
+deep into this is out of scope for this
+video<00:05:12.440><c> and</c><00:05:12.800><c> will</c><00:05:13.240><c> probably</c><00:05:13.600><c> take</c><00:05:13.800><c> too</c><00:05:14.000><c> much</c>
+
+00:05:14.230 --> 00:05:14.240 align:start position:0%
+video and will probably take too much
+ 
+
+00:05:14.240 --> 00:05:16.510 align:start position:0%
+video and will probably take too much
+time<00:05:14.600><c> and</c><00:05:14.880><c> people</c><00:05:15.479><c> who</c><00:05:15.680><c> are</c><00:05:15.919><c> way</c><00:05:16.120><c> better</c><00:05:16.360><c> than</c>
+
+00:05:16.510 --> 00:05:16.520 align:start position:0%
+time and people who are way better than
+ 
+
+00:05:16.520 --> 00:05:19.150 align:start position:0%
+time and people who are way better than
+me<00:05:16.800><c> have</c><00:05:17.080><c> explained</c><00:05:17.560><c> this</c><00:05:18.000><c> in</c><00:05:18.120><c> a</c><00:05:18.560><c> way</c><00:05:18.840><c> better</c>
+
+00:05:19.150 --> 00:05:19.160 align:start position:0%
+me have explained this in a way better
+ 
+
+00:05:19.160 --> 00:05:21.110 align:start position:0%
+me have explained this in a way better
+format<00:05:19.639><c> and</c><00:05:19.759><c> now</c><00:05:20.120><c> assuming</c><00:05:20.560><c> you</c><00:05:20.720><c> have</c><00:05:20.840><c> a</c><00:05:20.960><c> high</c>
+
+00:05:21.110 --> 00:05:21.120 align:start position:0%
+format and now assuming you have a high
+ 
+
+00:05:21.120 --> 00:05:23.469 align:start position:0%
+format and now assuming you have a high
+level<00:05:21.680><c> understanding</c><00:05:21.919><c> of</c><00:05:22.080><c> OSI</c><00:05:22.479><c> models</c><00:05:22.880><c> or</c>
+
+00:05:23.469 --> 00:05:23.479 align:start position:0%
+level understanding of OSI models or
+ 
+
+00:05:23.479 --> 00:05:26.510 align:start position:0%
+level understanding of OSI models or
+just<00:05:23.880><c> are</c><00:05:24.160><c> aware</c><00:05:24.479><c> of</c><00:05:24.960><c> what</c><00:05:25.360><c> this</c><00:05:25.560><c> model</c><00:05:25.880><c> is</c><00:05:26.160><c> and</c>
+
+00:05:26.510 --> 00:05:26.520 align:start position:0%
+just are aware of what this model is and
+ 
+
+00:05:26.520 --> 00:05:28.510 align:start position:0%
+just are aware of what this model is and
+how<00:05:26.720><c> it</c><00:05:27.039><c> helps</c><00:05:27.560><c> make</c><00:05:27.840><c> sense</c><00:05:28.080><c> of</c><00:05:28.280><c> data</c>
+
+00:05:28.510 --> 00:05:28.520 align:start position:0%
+how it helps make sense of data
+ 
+
+00:05:28.520 --> 00:05:30.710 align:start position:0%
+how it helps make sense of data
+transmission<00:05:28.960><c> over</c><00:05:29.160><c> the</c><00:05:29.280><c> internet</c><00:05:30.039><c> now</c><00:05:30.560><c> the</c>
+
+00:05:30.710 --> 00:05:30.720 align:start position:0%
+transmission over the internet now the
+ 
+
+00:05:30.720 --> 00:05:34.790 align:start position:0%
+transmission over the internet now the
+layer<00:05:31.080><c> on</c><00:05:31.400><c> top</c><00:05:32.080><c> is</c><00:05:32.319><c> called</c><00:05:33.319><c> application</c>
+
+00:05:34.790 --> 00:05:34.800 align:start position:0%
+layer on top is called application
+ 
+
+00:05:34.800 --> 00:05:38.510 align:start position:0%
+layer on top is called application
+layer<00:05:35.800><c> and</c><00:05:36.400><c> after</c><00:05:36.720><c> all</c><00:05:36.960><c> the</c><00:05:37.319><c> layers</c><00:05:38.319><c> the</c>
+
+00:05:38.510 --> 00:05:38.520 align:start position:0%
+layer and after all the layers the
+ 
+
+00:05:38.520 --> 00:05:41.749 align:start position:0%
+layer and after all the layers the
+bottom<00:05:38.840><c> layer</c><00:05:39.319><c> is</c><00:05:39.479><c> called</c><00:05:39.960><c> physical</c><00:05:40.479><c> layer</c><00:05:41.479><c> or</c>
+
+00:05:41.749 --> 00:05:41.759 align:start position:0%
+bottom layer is called physical layer or
+ 
+
+00:05:41.759 --> 00:05:44.230 align:start position:0%
+bottom layer is called physical layer or
+you<00:05:41.880><c> can</c><00:05:42.080><c> call</c><00:05:42.240><c> it</c><00:05:42.479><c> top</c><00:05:42.919><c> call</c><00:05:43.120><c> it</c><00:05:43.360><c> bottom</c><00:05:44.039><c> does</c>
+
+00:05:44.230 --> 00:05:44.240 align:start position:0%
+you can call it top call it bottom does
+ 
+
+00:05:44.240 --> 00:05:47.270 align:start position:0%
+you can call it top call it bottom does
+not<00:05:44.479><c> matter</c><00:05:45.319><c> right</c><00:05:45.720><c> these</c><00:05:45.919><c> two</c><00:05:46.199><c> are</c><00:05:46.680><c> on</c><00:05:46.880><c> the</c><00:05:47.120><c> in</c>
+
+00:05:47.270 --> 00:05:47.280 align:start position:0%
+not matter right these two are on the in
+ 
+
+00:05:47.280 --> 00:05:50.309 align:start position:0%
+not matter right these two are on the in
+the<00:05:47.560><c> opposite</c><00:05:47.960><c> end</c><00:05:48.199><c> of</c><00:05:48.360><c> each</c><00:05:48.680><c> other</c><00:05:49.680><c> right</c><00:05:50.160><c> and</c>
+
+00:05:50.309 --> 00:05:50.319 align:start position:0%
+the opposite end of each other right and
+ 
+
+00:05:50.319 --> 00:05:51.830 align:start position:0%
+the opposite end of each other right and
+the<00:05:50.479><c> same</c><00:05:50.720><c> thing</c><00:05:50.960><c> happens</c><00:05:51.240><c> on</c><00:05:51.360><c> the</c><00:05:51.479><c> server</c>
+
+00:05:51.830 --> 00:05:51.840 align:start position:0%
+the same thing happens on the server
+ 
+
+00:05:51.840 --> 00:05:54.150 align:start position:0%
+the same thing happens on the server
+side<00:05:52.639><c> here</c><00:05:53.120><c> in</c><00:05:53.240><c> the</c><00:05:53.360><c> server</c><00:05:53.759><c> we</c><00:05:53.919><c> have</c>
+
+00:05:54.150 --> 00:05:54.160 align:start position:0%
+side here in the server we have
+ 
+
+00:05:54.160 --> 00:05:56.469 align:start position:0%
+side here in the server we have
+application
+
+00:05:56.469 --> 00:05:56.479 align:start position:0%
+application
+ 
+
+00:05:56.479 --> 00:05:58.909 align:start position:0%
+application
+layer<00:05:57.479><c> and</c><00:05:57.720><c> in</c><00:05:57.840><c> the</c><00:05:58.000><c> bottom</c><00:05:58.280><c> we</c><00:05:58.400><c> have</c><00:05:58.600><c> physical</c>
+
+00:05:58.909 --> 00:05:58.919 align:start position:0%
+layer and in the bottom we have physical
+ 
+
+00:05:58.919 --> 00:06:01.309 align:start position:0%
+layer and in the bottom we have physical
+layer
+
+00:06:01.309 --> 00:06:01.319 align:start position:0%
+layer
+ 
+
+00:06:01.319 --> 00:06:02.990 align:start position:0%
+layer
+and<00:06:01.479><c> there</c><00:06:01.600><c> are</c><00:06:01.759><c> layers</c><00:06:02.160><c> in</c><00:06:02.360><c> between</c><00:06:02.759><c> now</c>
+
+00:06:02.990 --> 00:06:03.000 align:start position:0%
+and there are layers in between now
+ 
+
+00:06:03.000 --> 00:06:05.909 align:start position:0%
+and there are layers in between now
+imagine<00:06:03.600><c> if</c><00:06:03.960><c> you</c><00:06:04.199><c> were</c><00:06:04.600><c> asked</c><00:06:04.919><c> to</c><00:06:05.120><c> solve</c><00:06:05.520><c> this</c>
+
+00:06:05.909 --> 00:06:05.919 align:start position:0%
+imagine if you were asked to solve this
+ 
+
+00:06:05.919 --> 00:06:08.350 align:start position:0%
+imagine if you were asked to solve this
+problem<00:06:06.440><c> the</c><00:06:06.720><c> problem</c><00:06:07.080><c> that</c><00:06:07.280><c> we</c><00:06:07.440><c> have</c><00:06:07.680><c> two</c>
+
+00:06:08.350 --> 00:06:08.360 align:start position:0%
+problem the problem that we have two
+ 
+
+00:06:08.360 --> 00:06:11.909 align:start position:0%
+problem the problem that we have two
+machines<00:06:09.360><c> that</c>
+
+00:06:11.909 --> 00:06:11.919 align:start position:0%
+ 
+ 
+
+00:06:11.919 --> 00:06:14.510 align:start position:0%
+ 
+are<00:06:12.919><c> in</c><00:06:13.199><c> different</c>
+
+00:06:14.510 --> 00:06:14.520 align:start position:0%
+are in different
+ 
+
+00:06:14.520 --> 00:06:16.870 align:start position:0%
+are in different
+locations<00:06:15.520><c> and</c><00:06:15.840><c> they</c><00:06:15.919><c> are</c><00:06:16.120><c> connected</c><00:06:16.639><c> over</c>
+
+00:06:16.870 --> 00:06:16.880 align:start position:0%
+locations and they are connected over
+ 
+
+00:06:16.880 --> 00:06:19.990 align:start position:0%
+locations and they are connected over
+the<00:06:17.120><c> internet</c><00:06:17.800><c> right</c><00:06:18.319><c> let's</c><00:06:18.560><c> say</c><00:06:18.840><c> over</c><00:06:19.080><c> the</c>
+
+00:06:19.990 --> 00:06:20.000 align:start position:0%
+the internet right let's say over the
+ 
+
+00:06:20.000 --> 00:06:23.990 align:start position:0%
+the internet right let's say over the
+cloud<00:06:21.000><c> and</c><00:06:21.440><c> you</c><00:06:21.599><c> are</c><00:06:22.120><c> asked</c><00:06:23.120><c> you</c><00:06:23.280><c> have</c><00:06:23.440><c> to</c><00:06:23.759><c> come</c>
+
+00:06:23.990 --> 00:06:24.000 align:start position:0%
+cloud and you are asked you have to come
+ 
+
+00:06:24.000 --> 00:06:27.510 align:start position:0%
+cloud and you are asked you have to come
+up<00:06:24.440><c> with</c><00:06:24.759><c> some</c><00:06:25.080><c> way</c><00:06:25.720><c> or</c><00:06:26.000><c> some</c><00:06:26.360><c> technique</c><00:06:27.280><c> or</c>
+
+00:06:27.510 --> 00:06:27.520 align:start position:0%
+up with some way or some technique or
+ 
+
+00:06:27.520 --> 00:06:29.550 align:start position:0%
+up with some way or some technique or
+some<00:06:27.919><c> protocol</c><00:06:28.680><c> to</c><00:06:28.960><c> go</c><00:06:29.120><c> with</c><00:06:29.240><c> the</c><00:06:29.319><c> tech</c>
+
+00:06:29.550 --> 00:06:29.560 align:start position:0%
+some protocol to go with the tech
+ 
+
+00:06:29.560 --> 00:06:32.070 align:start position:0%
+some protocol to go with the tech
+technical<00:06:30.440><c> terminology</c><00:06:31.440><c> you</c><00:06:31.560><c> have</c><00:06:31.720><c> to</c><00:06:31.919><c> come</c>
+
+00:06:32.070 --> 00:06:32.080 align:start position:0%
+technical terminology you have to come
+ 
+
+00:06:32.080 --> 00:06:36.110 align:start position:0%
+technical terminology you have to come
+up<00:06:32.280><c> with</c><00:06:32.400><c> a</c><00:06:32.680><c> way</c><00:06:33.520><c> so</c><00:06:33.800><c> that</c><00:06:34.479><c> clients</c><00:06:35.479><c> or</c><00:06:35.800><c> one</c>
+
+00:06:36.110 --> 00:06:36.120 align:start position:0%
+up with a way so that clients or one
+ 
+
+00:06:36.120 --> 00:06:39.670 align:start position:0%
+up with a way so that clients or one
+machine<00:06:36.680><c> is</c><00:06:36.960><c> able</c><00:06:37.240><c> to</c><00:06:37.560><c> send</c><00:06:38.120><c> data</c><00:06:39.120><c> to</c><00:06:39.360><c> another</c>
+
+00:06:39.670 --> 00:06:39.680 align:start position:0%
+machine is able to send data to another
+ 
+
+00:06:39.680 --> 00:06:42.189 align:start position:0%
+machine is able to send data to another
+machine<00:06:40.240><c> and</c><00:06:40.560><c> they</c><00:06:40.759><c> should</c><00:06:41.000><c> be</c><00:06:41.199><c> able</c><00:06:41.440><c> to</c><00:06:41.800><c> parse</c>
+
+00:06:42.189 --> 00:06:42.199 align:start position:0%
+machine and they should be able to parse
+ 
+
+00:06:42.199 --> 00:06:44.749 align:start position:0%
+machine and they should be able to parse
+that<00:06:42.440><c> data</c><00:06:42.880><c> and</c><00:06:43.240><c> make</c><00:06:43.520><c> sense</c><00:06:43.840><c> of</c><00:06:44.000><c> it</c><00:06:44.240><c> in</c><00:06:44.360><c> a</c><00:06:44.560><c> way</c>
+
+00:06:44.749 --> 00:06:44.759 align:start position:0%
+that data and make sense of it in a way
+ 
+
+00:06:44.759 --> 00:06:47.550 align:start position:0%
+that data and make sense of it in a way
+that<00:06:45.000><c> it</c><00:06:45.120><c> is</c><00:06:45.280><c> language</c><00:06:45.880><c> agnostic</c><00:06:46.520><c> and</c><00:06:46.840><c> a</c><00:06:47.080><c> very</c>
+
+00:06:47.550 --> 00:06:47.560 align:start position:0%
+that it is language agnostic and a very
+ 
+
+00:06:47.560 --> 00:06:50.390 align:start position:0%
+that it is language agnostic and a very
+obvious<00:06:48.280><c> and</c><00:06:48.720><c> common</c><00:06:49.280><c> solution</c><00:06:50.080><c> that</c><00:06:50.240><c> you</c>
+
+00:06:50.390 --> 00:06:50.400 align:start position:0%
+obvious and common solution that you
+ 
+
+00:06:50.400 --> 00:06:54.909 align:start position:0%
+obvious and common solution that you
+might<00:06:50.599><c> come</c><00:06:50.800><c> up</c><00:06:50.960><c> with</c><00:06:51.120><c> is</c><00:06:51.360><c> figuring</c><00:06:51.800><c> out</c><00:06:52.199><c> a</c>
+
+00:06:54.909 --> 00:06:54.919 align:start position:0%
+ 
+ 
+
+00:06:54.919 --> 00:06:57.710 align:start position:0%
+ 
+common
+
+00:06:57.710 --> 00:06:57.720 align:start position:0%
+common
+ 
+
+00:06:57.720 --> 00:07:00.950 align:start position:0%
+common
+standard<00:06:58.720><c> which</c><00:06:58.919><c> is</c><00:06:59.720><c> just</c><00:06:59.919><c> a</c><00:07:00.160><c> fancy</c><00:07:00.639><c> way</c><00:07:00.800><c> of</c>
+
+00:07:00.950 --> 00:07:00.960 align:start position:0%
+standard which is just a fancy way of
+ 
+
+00:07:00.960 --> 00:07:03.629 align:start position:0%
+standard which is just a fancy way of
+saying<00:07:01.360><c> you</c><00:07:01.479><c> will</c><00:07:01.840><c> come</c><00:07:02.039><c> up</c><00:07:02.360><c> with</c><00:07:02.800><c> some</c><00:07:03.160><c> set</c><00:07:03.400><c> of</c>
+
+00:07:03.629 --> 00:07:03.639 align:start position:0%
+saying you will come up with some set of
+ 
+
+00:07:03.639 --> 00:07:06.629 align:start position:0%
+saying you will come up with some set of
+rules<00:07:04.240><c> and</c><00:07:04.440><c> you</c><00:07:04.560><c> will</c><00:07:04.879><c> ask</c><00:07:05.400><c> both</c><00:07:05.720><c> the</c><00:07:05.960><c> clients</c>
+
+00:07:06.629 --> 00:07:06.639 align:start position:0%
+rules and you will ask both the clients
+ 
+
+00:07:06.639 --> 00:07:09.629 align:start position:0%
+rules and you will ask both the clients
+and<00:07:06.840><c> the</c><00:07:07.000><c> server</c><00:07:07.400><c> to</c><00:07:07.960><c> agree</c><00:07:08.520><c> that</c><00:07:08.840><c> this</c><00:07:09.240><c> is</c><00:07:09.400><c> the</c>
+
+00:07:09.629 --> 00:07:09.639 align:start position:0%
+and the server to agree that this is the
+ 
+
+00:07:09.639 --> 00:07:12.110 align:start position:0%
+and the server to agree that this is the
+standard<00:07:10.120><c> or</c><00:07:10.479><c> this</c><00:07:10.800><c> is</c><00:07:10.960><c> the</c><00:07:11.199><c> format</c><00:07:11.720><c> that</c><00:07:11.879><c> the</c>
+
+00:07:12.110 --> 00:07:12.120 align:start position:0%
+standard or this is the format that the
+ 
+
+00:07:12.120 --> 00:07:14.670 align:start position:0%
+standard or this is the format that the
+client<00:07:12.520><c> should</c><00:07:12.879><c> send</c><00:07:13.319><c> the</c><00:07:13.599><c> data</c><00:07:14.039><c> in</c><00:07:14.360><c> or</c><00:07:14.520><c> the</c>
+
+00:07:14.670 --> 00:07:14.680 align:start position:0%
+client should send the data in or the
+ 
+
+00:07:14.680 --> 00:07:16.909 align:start position:0%
+client should send the data in or the
+server<00:07:15.080><c> should</c><00:07:15.560><c> send</c><00:07:15.759><c> the</c><00:07:16.000><c> response</c><00:07:16.560><c> in</c><00:07:16.759><c> so</c>
+
+00:07:16.909 --> 00:07:16.919 align:start position:0%
+server should send the response in so
+ 
+
+00:07:16.919 --> 00:07:19.350 align:start position:0%
+server should send the response in so
+that<00:07:17.160><c> client</c><00:07:17.879><c> does</c><00:07:18.240><c> what</c><00:07:18.400><c> it</c><00:07:18.560><c> needs</c><00:07:18.840><c> to</c><00:07:19.000><c> do</c>
+
+00:07:19.350 --> 00:07:19.360 align:start position:0%
+that client does what it needs to do
+ 
+
+00:07:19.360 --> 00:07:21.390 align:start position:0%
+that client does what it needs to do
+during<00:07:19.639><c> the</c><00:07:19.879><c> execution</c><00:07:20.440><c> of</c><00:07:20.680><c> the</c><00:07:20.840><c> session</c><00:07:21.199><c> of</c>
+
+00:07:21.390 --> 00:07:21.400 align:start position:0%
+during the execution of the session of
+ 
+
+00:07:21.400 --> 00:07:23.909 align:start position:0%
+during the execution of the session of
+the<00:07:21.520><c> user</c><00:07:22.000><c> and</c><00:07:22.400><c> when</c><00:07:22.639><c> sending</c><00:07:23.199><c> data</c><00:07:23.560><c> to</c><00:07:23.680><c> the</c>
+
+00:07:23.909 --> 00:07:23.919 align:start position:0%
+the user and when sending data to the
+ 
+
+00:07:23.919 --> 00:07:26.710 align:start position:0%
+the user and when sending data to the
+server<00:07:24.400><c> it</c><00:07:24.599><c> transforms</c><00:07:25.560><c> or</c><00:07:25.960><c> converts</c>
+
+00:07:26.710 --> 00:07:26.720 align:start position:0%
+server it transforms or converts
+ 
+
+00:07:26.720 --> 00:07:28.990 align:start position:0%
+server it transforms or converts
+whatever<00:07:27.080><c> the</c><00:07:27.240><c> logic</c><00:07:27.639><c> is</c><00:07:27.960><c> from</c><00:07:28.319><c> that</c><00:07:28.560><c> language</c>
+
+00:07:28.990 --> 00:07:29.000 align:start position:0%
+whatever the logic is from that language
+ 
+
+00:07:29.000 --> 00:07:30.309 align:start position:0%
+whatever the logic is from that language
+let's<00:07:29.160><c> say</c><00:07:29.560><c> from</c>
+
+00:07:30.309 --> 00:07:30.319 align:start position:0%
+let's say from
+ 
+
+00:07:30.319 --> 00:07:34.270 align:start position:0%
+let's say from
+JavaScript<00:07:31.319><c> to</c><00:07:31.720><c> this</c><00:07:31.960><c> standard</c><00:07:32.680><c> this</c><00:07:33.280><c> format</c>
+
+00:07:34.270 --> 00:07:34.280 align:start position:0%
+JavaScript to this standard this format
+ 
+
+00:07:34.280 --> 00:07:37.909 align:start position:0%
+JavaScript to this standard this format
+and<00:07:34.520><c> sends</c><00:07:34.960><c> it</c><00:07:35.199><c> over</c><00:07:35.400><c> the</c><00:07:36.039><c> network</c><00:07:37.039><c> and</c><00:07:37.240><c> when</c>
+
+00:07:37.909 --> 00:07:37.919 align:start position:0%
+and sends it over the network and when
+ 
+
+00:07:37.919 --> 00:07:40.110 align:start position:0%
+and sends it over the network and when
+receiving<00:07:38.520><c> the</c><00:07:38.720><c> server</c><00:07:39.240><c> takes</c><00:07:39.520><c> that</c><00:07:39.759><c> data</c>
+
+00:07:40.110 --> 00:07:40.120 align:start position:0%
+receiving the server takes that data
+ 
+
+00:07:40.120 --> 00:07:42.950 align:start position:0%
+receiving the server takes that data
+from<00:07:40.479><c> that</c><00:07:40.759><c> standard</c><00:07:41.400><c> and</c><00:07:41.720><c> converts</c><00:07:42.240><c> it</c><00:07:42.639><c> into</c>
+
+00:07:42.950 --> 00:07:42.960 align:start position:0%
+from that standard and converts it into
+ 
+
+00:07:42.960 --> 00:07:45.869 align:start position:0%
+from that standard and converts it into
+its<00:07:43.240><c> own</c><00:07:43.720><c> standard</c><00:07:44.400><c> let's</c><00:07:44.599><c> say</c><00:07:44.759><c> it's</c><00:07:45.000><c> rust</c><00:07:45.599><c> so</c>
+
+00:07:45.869 --> 00:07:45.879 align:start position:0%
+its own standard let's say it's rust so
+ 
+
+00:07:45.879 --> 00:07:50.350 align:start position:0%
+its own standard let's say it's rust so
+it<00:07:46.159><c> converts</c><00:07:46.720><c> it</c><00:07:46.960><c> into</c><00:07:47.199><c> a</c><00:07:47.440><c> struct</c><00:07:48.440><c> in</c><00:07:49.039><c> Rust</c><00:07:50.039><c> and</c>
+
+00:07:50.350 --> 00:07:50.360 align:start position:0%
+it converts it into a struct in Rust and
+ 
+
+00:07:50.360 --> 00:07:52.950 align:start position:0%
+it converts it into a struct in Rust and
+it<00:07:50.960><c> understands</c><00:07:51.840><c> the</c><00:07:52.080><c> data</c><00:07:52.360><c> format</c><00:07:52.800><c> and</c>
+
+00:07:52.950 --> 00:07:52.960 align:start position:0%
+it understands the data format and
+ 
+
+00:07:52.960 --> 00:07:55.469 align:start position:0%
+it understands the data format and
+whatever<00:07:53.280><c> it</c><00:07:53.479><c> needs</c><00:07:53.639><c> to</c><00:07:53.800><c> do</c><00:07:54.599><c> and</c><00:07:54.759><c> when</c><00:07:55.000><c> sending</c>
+
+00:07:55.469 --> 00:07:55.479 align:start position:0%
+whatever it needs to do and when sending
+ 
+
+00:07:55.479 --> 00:07:58.869 align:start position:0%
+whatever it needs to do and when sending
+the<00:07:55.759><c> response</c><00:07:56.319><c> it</c><00:07:56.560><c> converts</c><00:07:57.520><c> that</c><00:07:57.800><c> data</c><00:07:58.680><c> let's</c>
+
+00:07:58.869 --> 00:07:58.879 align:start position:0%
+the response it converts that data let's
+ 
+
+00:07:58.879 --> 00:08:00.029 align:start position:0%
+the response it converts that data let's
+say<00:07:59.080><c> from</c>
+
+00:08:00.029 --> 00:08:00.039 align:start position:0%
+say from
+ 
+
+00:08:00.039 --> 00:08:02.550 align:start position:0%
+say from
+rust
+
+00:08:02.550 --> 00:08:02.560 align:start position:0%
+rust
+ 
+
+00:08:02.560 --> 00:08:05.670 align:start position:0%
+rust
+truct<00:08:03.560><c> into</c><00:08:04.319><c> this</c><00:08:04.520><c> standard</c><00:08:05.120><c> this</c><00:08:05.319><c> common</c>
+
+00:08:05.670 --> 00:08:05.680 align:start position:0%
+truct into this standard this common
+ 
+
+00:08:05.680 --> 00:08:08.230 align:start position:0%
+truct into this standard this common
+format<00:08:06.240><c> and</c><00:08:06.440><c> sends</c><00:08:06.840><c> it</c><00:08:06.960><c> over</c><00:08:07.159><c> the</c><00:08:07.280><c> internet</c>
+
+00:08:08.230 --> 00:08:08.240 align:start position:0%
+format and sends it over the internet
+ 
+
+00:08:08.240 --> 00:08:10.629 align:start position:0%
+format and sends it over the internet
+and<00:08:08.479><c> again</c><00:08:08.720><c> the</c><00:08:08.879><c> client</c><00:08:09.280><c> reads</c><00:08:09.639><c> it</c><00:08:09.919><c> and</c><00:08:10.199><c> parses</c>
+
+00:08:10.629 --> 00:08:10.639 align:start position:0%
+and again the client reads it and parses
+ 
+
+00:08:10.639 --> 00:08:13.430 align:start position:0%
+and again the client reads it and parses
+it<00:08:10.840><c> into</c><00:08:11.360><c> JavaScript</c><00:08:12.360><c> and</c><00:08:12.599><c> it's</c><00:08:12.840><c> it's</c><00:08:13.039><c> able</c><00:08:13.280><c> to</c>
+
+00:08:13.430 --> 00:08:13.440 align:start position:0%
+it into JavaScript and it's it's able to
+ 
+
+00:08:13.440 --> 00:08:16.469 align:start position:0%
+it into JavaScript and it's it's able to
+do<00:08:13.639><c> whatever</c><00:08:13.960><c> it</c><00:08:14.039><c> needs</c><00:08:14.280><c> to</c><00:08:14.440><c> do</c><00:08:14.759><c> this</c><00:08:15.479><c> part</c>
+
+00:08:16.469 --> 00:08:16.479 align:start position:0%
+do whatever it needs to do this part
+ 
+
+00:08:16.479 --> 00:08:18.230 align:start position:0%
+do whatever it needs to do this part
+this<00:08:16.639><c> is</c><00:08:16.759><c> a</c><00:08:16.960><c> solution</c><00:08:17.520><c> what</c><00:08:17.599><c> is</c><00:08:17.720><c> the</c><00:08:17.840><c> solution</c>
+
+00:08:18.230 --> 00:08:18.240 align:start position:0%
+this is a solution what is the solution
+ 
+
+00:08:18.240 --> 00:08:22.830 align:start position:0%
+this is a solution what is the solution
+the<00:08:18.360><c> solution</c><00:08:18.720><c> is</c><00:08:18.879><c> coming</c><00:08:19.199><c> up</c><00:08:19.479><c> with</c><00:08:19.599><c> a</c>
+
+00:08:22.830 --> 00:08:22.840 align:start position:0%
+ 
+ 
+
+00:08:22.840 --> 00:08:27.070 align:start position:0%
+ 
+serialization
+
+00:08:27.070 --> 00:08:27.080 align:start position:0%
+ 
+ 
+
+00:08:27.080 --> 00:08:30.029 align:start position:0%
+ 
+standard<00:08:28.080><c> common</c><00:08:28.560><c> standard</c><00:08:29.080><c> that</c><00:08:29.240><c> the</c><00:08:29.599><c> both</c>
+
+00:08:30.029 --> 00:08:30.039 align:start position:0%
+standard common standard that the both
+ 
+
+00:08:30.039 --> 00:08:33.350 align:start position:0%
+standard common standard that the both
+client<00:08:30.759><c> and</c><00:08:31.039><c> the</c><00:08:31.240><c> server</c><00:08:31.840><c> agree</c><00:08:32.320><c> to</c><00:08:32.519><c> send</c><00:08:33.000><c> and</c>
+
+00:08:33.350 --> 00:08:33.360 align:start position:0%
+client and the server agree to send and
+ 
+
+00:08:33.360 --> 00:08:36.469 align:start position:0%
+client and the server agree to send and
+receive<00:08:33.839><c> data</c><00:08:34.279><c> and</c><00:08:34.519><c> to</c><00:08:34.880><c> summarize</c><00:08:35.519><c> this</c><00:08:35.839><c> whole</c>
+
+00:08:36.469 --> 00:08:36.479 align:start position:0%
+receive data and to summarize this whole
+ 
+
+00:08:36.479 --> 00:08:39.990 align:start position:0%
+receive data and to summarize this whole
+thing<00:08:37.479><c> realization</c><00:08:38.399><c> and</c><00:08:38.719><c> derealization</c><00:08:39.719><c> is</c>
+
+00:08:39.990 --> 00:08:40.000 align:start position:0%
+thing realization and derealization is
+ 
+
+00:08:40.000 --> 00:08:43.149 align:start position:0%
+thing realization and derealization is
+basically<00:08:40.599><c> converting</c><00:08:41.279><c> to</c><00:08:41.640><c> and</c><00:08:42.000><c> from</c><00:08:42.599><c> data</c><00:08:43.000><c> to</c>
+
+00:08:43.149 --> 00:08:43.159 align:start position:0%
+basically converting to and from data to
+ 
+
+00:08:43.159 --> 00:08:45.190 align:start position:0%
+basically converting to and from data to
+a<00:08:43.440><c> common</c><00:08:43.919><c> format</c><00:08:44.399><c> so</c><00:08:44.600><c> that</c><00:08:44.800><c> during</c>
+
+00:08:45.190 --> 00:08:45.200 align:start position:0%
+a common format so that during
+ 
+
+00:08:45.200 --> 00:08:47.790 align:start position:0%
+a common format so that during
+transmission<00:08:46.000><c> or</c><00:08:46.240><c> storage</c><00:08:46.959><c> we'll</c><00:08:47.360><c> get</c><00:08:47.519><c> to</c><00:08:47.680><c> the</c>
+
+00:08:47.790 --> 00:08:47.800 align:start position:0%
+transmission or storage we'll get to the
+ 
+
+00:08:47.800 --> 00:08:50.269 align:start position:0%
+transmission or storage we'll get to the
+storage<00:08:48.240><c> part</c><00:08:48.680><c> but</c><00:08:49.160><c> from</c><00:08:49.440><c> this</c><00:08:49.680><c> example</c><00:08:50.160><c> we</c>
+
+00:08:50.269 --> 00:08:50.279 align:start position:0%
+storage part but from this example we
+ 
+
+00:08:50.279 --> 00:08:51.790 align:start position:0%
+storage part but from this example we
+can<00:08:50.399><c> say</c><00:08:50.640><c> that</c><00:08:50.839><c> the</c><00:08:51.040><c> serialization</c><00:08:51.640><c> and</c>
+
+00:08:51.790 --> 00:08:51.800 align:start position:0%
+can say that the serialization and
+ 
+
+00:08:51.800 --> 00:08:53.790 align:start position:0%
+can say that the serialization and
+deserialization<00:08:52.519><c> is</c><00:08:52.760><c> basically</c><00:08:53.240><c> converting</c>
+
+00:08:53.790 --> 00:08:53.800 align:start position:0%
+deserialization is basically converting
+ 
+
+00:08:53.800 --> 00:08:56.829 align:start position:0%
+deserialization is basically converting
+data<00:08:54.240><c> from</c><00:08:54.560><c> and</c><00:08:54.800><c> to</c><00:08:55.240><c> a</c><00:08:55.600><c> common</c><00:08:56.040><c> format</c><00:08:56.519><c> while</c>
+
+00:08:56.829 --> 00:08:56.839 align:start position:0%
+data from and to a common format while
+ 
+
+00:08:56.839 --> 00:08:59.430 align:start position:0%
+data from and to a common format while
+transmission<00:08:57.519><c> so</c><00:08:57.720><c> that</c><00:08:57.959><c> it</c><00:08:58.079><c> is</c><00:08:58.600><c> domain</c><00:08:59.040><c> agnos</c>
+
+00:08:59.430 --> 00:08:59.440 align:start position:0%
+transmission so that it is domain agnos
+ 
+
+00:08:59.440 --> 00:09:02.030 align:start position:0%
+transmission so that it is domain agnos
+tic<00:08:59.920><c> or</c><00:09:00.160><c> in</c><00:09:00.320><c> this</c><00:09:00.519><c> case</c><00:09:00.880><c> language</c><00:09:01.320><c> agnos</c><00:09:01.839><c> that</c>
+
+00:09:02.030 --> 00:09:02.040 align:start position:0%
+tic or in this case language agnos that
+ 
+
+00:09:02.040 --> 00:09:04.949 align:start position:0%
+tic or in this case language agnos that
+machines<00:09:02.959><c> and</c><00:09:03.320><c> servers</c><00:09:03.880><c> and</c><00:09:04.160><c> clients</c><00:09:04.680><c> from</c>
+
+00:09:04.949 --> 00:09:04.959 align:start position:0%
+machines and servers and clients from
+ 
+
+00:09:04.959 --> 00:09:06.430 align:start position:0%
+machines and servers and clients from
+different<00:09:05.320><c> domains</c><00:09:05.839><c> and</c><00:09:06.040><c> different</c>
+
+00:09:06.430 --> 00:09:06.440 align:start position:0%
+different domains and different
+ 
+
+00:09:06.440 --> 00:09:08.790 align:start position:0%
+different domains and different
+languages<00:09:07.040><c> from</c><00:09:07.279><c> different</c><00:09:07.800><c> environments</c>
+
+00:09:08.790 --> 00:09:08.800 align:start position:0%
+languages from different environments
+ 
+
+00:09:08.800 --> 00:09:11.190 align:start position:0%
+languages from different environments
+are<00:09:09.040><c> able</c><00:09:09.320><c> to</c><00:09:09.560><c> make</c><00:09:09.880><c> sense</c><00:09:10.240><c> of</c><00:09:10.480><c> that</c><00:09:10.680><c> data</c><00:09:11.040><c> and</c>
+
+00:09:11.190 --> 00:09:11.200 align:start position:0%
+are able to make sense of that data and
+ 
+
+00:09:11.200 --> 00:09:13.509 align:start position:0%
+are able to make sense of that data and
+are<00:09:11.399><c> able</c><00:09:11.640><c> to</c><00:09:12.120><c> respond</c><00:09:12.600><c> to</c><00:09:12.800><c> that</c><00:09:12.959><c> data</c><00:09:13.279><c> and</c>
+
+00:09:13.509 --> 00:09:13.519 align:start position:0%
+are able to respond to that data and
+ 
+
+00:09:13.519 --> 00:09:16.110 align:start position:0%
+are able to respond to that data and
+before<00:09:13.880><c> we</c><00:09:14.480><c> dive</c><00:09:15.040><c> deep</c><00:09:15.399><c> into</c><00:09:15.959><c> the</c>
+
+00:09:16.110 --> 00:09:16.120 align:start position:0%
+before we dive deep into the
+ 
+
+00:09:16.120 --> 00:09:18.350 align:start position:0%
+before we dive deep into the
+serialization<00:09:16.959><c> standard</c><00:09:17.480><c> I</c><00:09:17.600><c> just</c><00:09:17.760><c> want</c><00:09:17.959><c> to</c>
+
+00:09:18.350 --> 00:09:18.360 align:start position:0%
+serialization standard I just want to
+ 
+
+00:09:18.360 --> 00:09:20.509 align:start position:0%
+serialization standard I just want to
+make<00:09:18.519><c> a</c><00:09:18.720><c> note</c><00:09:19.040><c> here</c><00:09:19.279><c> that</c><00:09:19.959><c> which</c><00:09:20.240><c> I</c><00:09:20.360><c> have</c>
+
+00:09:20.509 --> 00:09:20.519 align:start position:0%
+make a note here that which I have
+ 
+
+00:09:20.519 --> 00:09:23.990 align:start position:0%
+make a note here that which I have
+already<00:09:20.839><c> mentioned</c><00:09:21.640><c> that</c><00:09:22.200><c> backend</c><00:09:22.880><c> is</c><00:09:23.040><c> a</c><00:09:23.640><c> huge</c>
+
+00:09:23.990 --> 00:09:24.000 align:start position:0%
+already mentioned that backend is a huge
+ 
+
+00:09:24.000 --> 00:09:26.310 align:start position:0%
+already mentioned that backend is a huge
+domain<00:09:24.800><c> and</c><00:09:25.240><c> there</c><00:09:25.399><c> are</c><00:09:25.560><c> a</c><00:09:25.760><c> lot</c><00:09:25.959><c> of</c>
+
+00:09:26.310 --> 00:09:26.320 align:start position:0%
+domain and there are a lot of
+ 
+
+00:09:26.320 --> 00:09:28.190 align:start position:0%
+domain and there are a lot of
+Technologies<00:09:26.959><c> hundreds</c><00:09:27.360><c> of</c><00:09:27.560><c> technologies</c>
+
+00:09:28.190 --> 00:09:28.200 align:start position:0%
+Technologies hundreds of technologies
+ 
+
+00:09:28.200 --> 00:09:29.990 align:start position:0%
+Technologies hundreds of technologies
+that<00:09:28.320><c> is</c><00:09:28.519><c> used</c><00:09:28.880><c> in</c><00:09:29.000><c> the</c><00:09:29.120><c> industry</c><00:09:29.640><c> so</c><00:09:29.760><c> it's</c>
+
+00:09:29.990 --> 00:09:30.000 align:start position:0%
+that is used in the industry so it's
+ 
+
+00:09:30.000 --> 00:09:32.509 align:start position:0%
+that is used in the industry so it's
+impossible<00:09:30.600><c> to</c><00:09:31.279><c> understand</c><00:09:31.839><c> the</c><00:09:32.040><c> concepts</c>
+
+00:09:32.509 --> 00:09:32.519 align:start position:0%
+impossible to understand the concepts
+ 
+
+00:09:32.519 --> 00:09:34.710 align:start position:0%
+impossible to understand the concepts
+behind<00:09:33.040><c> all</c><00:09:33.240><c> of</c><00:09:33.440><c> those</c><00:09:33.640><c> Technologies</c><00:09:34.440><c> what</c><00:09:34.640><c> we</c>
+
+00:09:34.710 --> 00:09:34.720 align:start position:0%
+behind all of those Technologies what we
+ 
+
+00:09:34.720 --> 00:09:37.150 align:start position:0%
+behind all of those Technologies what we
+will<00:09:35.040><c> do</c><00:09:35.399><c> in</c><00:09:35.640><c> this</c><00:09:35.880><c> video</c><00:09:36.440><c> and</c><00:09:36.600><c> in</c><00:09:36.800><c> this</c><00:09:36.959><c> whole</c>
+
+00:09:37.150 --> 00:09:37.160 align:start position:0%
+will do in this video and in this whole
+ 
+
+00:09:37.160 --> 00:09:40.030 align:start position:0%
+will do in this video and in this whole
+playlists<00:09:37.839><c> we'll</c><00:09:38.360><c> go</c><00:09:38.640><c> with</c><00:09:38.839><c> the</c><00:09:39.160><c> most</c><00:09:39.640><c> used</c>
+
+00:09:40.030 --> 00:09:40.040 align:start position:0%
+playlists we'll go with the most used
+ 
+
+00:09:40.040 --> 00:09:41.750 align:start position:0%
+playlists we'll go with the most used
+Technologies<00:09:40.680><c> for</c><00:09:40.839><c> example</c><00:09:41.200><c> for</c><00:09:41.360><c> the</c><00:09:41.480><c> data</c>
+
+00:09:41.750 --> 00:09:41.760 align:start position:0%
+Technologies for example for the data
+ 
+
+00:09:41.760 --> 00:09:42.949 align:start position:0%
+Technologies for example for the data
+transmission<00:09:42.360><c> there</c><00:09:42.440><c> are</c><00:09:42.560><c> a</c><00:09:42.640><c> lot</c><00:09:42.800><c> of</c>
+
+00:09:42.949 --> 00:09:42.959 align:start position:0%
+transmission there are a lot of
+ 
+
+00:09:42.959 --> 00:09:44.870 align:start position:0%
+transmission there are a lot of
+Technologies<00:09:43.560><c> getting</c><00:09:43.800><c> used</c><00:09:44.079><c> for</c><00:09:44.240><c> example</c>
+
+00:09:44.870 --> 00:09:44.880 align:start position:0%
+Technologies getting used for example
+ 
+
+00:09:44.880 --> 00:09:49.670 align:start position:0%
+Technologies getting used for example
+HTTP<00:09:45.880><c> and</c><00:09:46.760><c> websockets</c><00:09:47.760><c> and</c><00:09:48.680><c> you</c><00:09:48.880><c> have</c>
+
+00:09:49.670 --> 00:09:49.680 align:start position:0%
+HTTP and websockets and you have
+ 
+
+00:09:49.680 --> 00:09:53.990 align:start position:0%
+HTTP and websockets and you have
+grpc<00:09:50.680><c> etc</c><00:09:51.160><c> etc</c><00:09:51.839><c> so</c><00:09:52.360><c> we'll</c><00:09:52.640><c> go</c><00:09:52.800><c> with</c><00:09:52.959><c> HTTP</c><00:09:53.560><c> since</c>
+
+00:09:53.990 --> 00:09:54.000 align:start position:0%
+grpc etc etc so we'll go with HTTP since
+ 
+
+00:09:54.000 --> 00:09:57.150 align:start position:0%
+grpc etc etc so we'll go with HTTP since
+rest<00:09:54.320><c> apis</c><00:09:54.880><c> are</c><00:09:55.240><c> still</c><00:09:56.000><c> the</c><00:09:56.240><c> most</c><00:09:56.640><c> common</c>
+
+00:09:57.150 --> 00:09:57.160 align:start position:0%
+rest apis are still the most common
+ 
+
+00:09:57.160 --> 00:09:58.949 align:start position:0%
+rest apis are still the most common
+means<00:09:57.480><c> of</c><00:09:57.680><c> communication</c><00:09:58.240><c> over</c><00:09:58.480><c> the</c><00:09:58.600><c> Internet</c>
+
+00:09:58.949 --> 00:09:58.959 align:start position:0%
+means of communication over the Internet
+ 
+
+00:09:58.959 --> 00:10:00.949 align:start position:0%
+means of communication over the Internet
+between<00:09:59.360><c> clients</c><00:09:59.640><c> and</c><00:09:59.800><c> servers</c><00:10:00.480><c> and</c><00:10:00.680><c> as</c><00:10:00.800><c> a</c>
+
+00:10:00.949 --> 00:10:00.959 align:start position:0%
+between clients and servers and as a
+ 
+
+00:10:00.959 --> 00:10:03.509 align:start position:0%
+between clients and servers and as a
+backend<00:10:01.279><c> engineer</c><00:10:01.760><c> if</c><00:10:01.880><c> you</c><00:10:02.160><c> are</c><00:10:02.519><c> aware</c><00:10:02.800><c> of</c><00:10:03.079><c> and</c>
+
+00:10:03.509 --> 00:10:03.519 align:start position:0%
+backend engineer if you are aware of and
+ 
+
+00:10:03.519 --> 00:10:05.870 align:start position:0%
+backend engineer if you are aware of and
+have<00:10:03.720><c> good</c><00:10:04.000><c> experience</c><00:10:04.480><c> in</c><00:10:04.720><c> HTTP</c><00:10:05.440><c> then</c><00:10:05.640><c> you're</c>
+
+00:10:05.870 --> 00:10:05.880 align:start position:0%
+have good experience in HTTP then you're
+ 
+
+00:10:05.880 --> 00:10:07.829 align:start position:0%
+have good experience in HTTP then you're
+good<00:10:06.000><c> to</c><00:10:06.160><c> go</c><00:10:06.360><c> you</c><00:10:06.480><c> can</c><00:10:06.640><c> learn</c><00:10:07.040><c> all</c><00:10:07.240><c> these</c><00:10:07.600><c> other</c>
+
+00:10:07.829 --> 00:10:07.839 align:start position:0%
+good to go you can learn all these other
+ 
+
+00:10:07.839 --> 00:10:09.670 align:start position:0%
+good to go you can learn all these other
+Technologies<00:10:08.519><c> along</c><00:10:08.800><c> the</c><00:10:08.920><c> way</c><00:10:09.040><c> you</c><00:10:09.160><c> just</c><00:10:09.360><c> need</c>
+
+00:10:09.670 --> 00:10:09.680 align:start position:0%
+Technologies along the way you just need
+ 
+
+00:10:09.680 --> 00:10:11.710 align:start position:0%
+Technologies along the way you just need
+something<00:10:10.160><c> which</c><00:10:10.279><c> is</c><00:10:10.800><c> used</c><00:10:11.240><c> all</c><00:10:11.399><c> of</c><00:10:11.560><c> the</c>
+
+00:10:11.710 --> 00:10:11.720 align:start position:0%
+something which is used all of the
+ 
+
+00:10:11.720 --> 00:10:14.069 align:start position:0%
+something which is used all of the
+industry<00:10:12.160><c> to</c><00:10:12.360><c> get</c><00:10:12.560><c> started</c><00:10:13.160><c> and</c><00:10:13.680><c> get</c><00:10:13.839><c> some</c>
+
+00:10:14.069 --> 00:10:14.079 align:start position:0%
+industry to get started and get some
+ 
+
+00:10:14.079 --> 00:10:15.829 align:start position:0%
+industry to get started and get some
+experience<00:10:14.720><c> and</c><00:10:14.920><c> you</c><00:10:15.040><c> can</c><00:10:15.440><c> learn</c>
+
+00:10:15.829 --> 00:10:15.839 align:start position:0%
+experience and you can learn
+ 
+
+00:10:15.839 --> 00:10:17.710 align:start position:0%
+experience and you can learn
+Technologies<00:10:16.519><c> as</c><00:10:16.640><c> you</c><00:10:16.839><c> progress</c><00:10:17.279><c> over</c><00:10:17.519><c> your</c>
+
+00:10:17.710 --> 00:10:17.720 align:start position:0%
+Technologies as you progress over your
+ 
+
+00:10:17.720 --> 00:10:19.990 align:start position:0%
+Technologies as you progress over your
+career<00:10:18.200><c> in</c><00:10:18.279><c> the</c><00:10:18.440><c> same</c><00:10:18.640><c> way</c><00:10:18.880><c> for</c><00:10:19.079><c> databases</c><00:10:19.880><c> we</c>
+
+00:10:19.990 --> 00:10:20.000 align:start position:0%
+career in the same way for databases we
+ 
+
+00:10:20.000 --> 00:10:21.350 align:start position:0%
+career in the same way for databases we
+have<00:10:20.120><c> a</c><00:10:20.240><c> lot</c><00:10:20.440><c> of</c><00:10:20.640><c> different</c><00:10:20.959><c> types</c><00:10:21.200><c> of</c>
+
+00:10:21.350 --> 00:10:21.360 align:start position:0%
+have a lot of different types of
+ 
+
+00:10:21.360 --> 00:10:23.630 align:start position:0%
+have a lot of different types of
+databases<00:10:22.079><c> we</c><00:10:22.279><c> have</c>
+
+00:10:23.630 --> 00:10:23.640 align:start position:0%
+databases we have
+ 
+
+00:10:23.640 --> 00:10:26.630 align:start position:0%
+databases we have
+relational<00:10:24.640><c> right</c><00:10:25.000><c> we</c><00:10:25.200><c> have</c><00:10:25.720><c> non-</c>
+
+00:10:26.630 --> 00:10:26.640 align:start position:0%
+relational right we have non-
+ 
+
+00:10:26.640 --> 00:10:29.790 align:start position:0%
+relational right we have non-
+relational<00:10:27.640><c> in</c><00:10:27.880><c> relational</c><00:10:28.480><c> we</c><00:10:28.680><c> have</c>
+
+00:10:29.790 --> 00:10:29.800 align:start position:0%
+relational in relational we have
+ 
+
+00:10:29.800 --> 00:10:33.310 align:start position:0%
+relational in relational we have
+postgress<00:10:30.800><c> we</c><00:10:30.959><c> have</c><00:10:31.240><c> MySQL</c><00:10:32.160><c> we</c><00:10:32.279><c> have</c>
+
+00:10:33.310 --> 00:10:33.320 align:start position:0%
+postgress we have MySQL we have
+ 
+
+00:10:33.320 --> 00:10:35.590 align:start position:0%
+postgress we have MySQL we have
+sqlite
+
+00:10:35.590 --> 00:10:35.600 align:start position:0%
+sqlite
+ 
+
+00:10:35.600 --> 00:10:38.790 align:start position:0%
+sqlite
+right<00:10:36.600><c> same</c><00:10:36.920><c> way</c><00:10:37.079><c> in</c><00:10:37.880><c> non-</c><00:10:38.200><c> relational</c><00:10:38.680><c> we</c>
+
+00:10:38.790 --> 00:10:38.800 align:start position:0%
+right same way in non- relational we
+ 
+
+00:10:38.800 --> 00:10:42.430 align:start position:0%
+right same way in non- relational we
+have
+
+00:10:42.430 --> 00:10:42.440 align:start position:0%
+ 
+ 
+
+00:10:42.440 --> 00:10:47.590 align:start position:0%
+ 
+mongodb<00:10:43.440><c> we</c><00:10:43.600><c> have</c><00:10:44.240><c> Dynamo</c><00:10:44.720><c> DB</c><00:10:45.440><c> from</c>
+
+00:10:47.590 --> 00:10:47.600 align:start position:0%
+mongodb we have Dynamo DB from
+ 
+
+00:10:47.600 --> 00:10:50.470 align:start position:0%
+mongodb we have Dynamo DB from
+AWS<00:10:48.600><c> a</c><00:10:48.760><c> lot</c><00:10:48.920><c> of</c><00:10:49.160><c> different</c><00:10:49.600><c> options</c><00:10:50.000><c> for</c>
+
+00:10:50.470 --> 00:10:50.480 align:start position:0%
+AWS a lot of different options for
+ 
+
+00:10:50.480 --> 00:10:53.629 align:start position:0%
+AWS a lot of different options for
+databases<00:10:51.480><c> but</c><00:10:52.240><c> in</c><00:10:52.440><c> this</c><00:10:52.639><c> playlist</c><00:10:53.040><c> we'll</c><00:10:53.399><c> go</c>
+
+00:10:53.629 --> 00:10:53.639 align:start position:0%
+databases but in this playlist we'll go
+ 
+
+00:10:53.639 --> 00:10:57.190 align:start position:0%
+databases but in this playlist we'll go
+with<00:10:54.040><c> post</c><00:10:54.399><c> gra</c><00:10:55.079><c> right</c><00:10:56.040><c> it's</c><00:10:56.360><c> one</c><00:10:56.519><c> of</c><00:10:56.639><c> the</c><00:10:56.839><c> most</c>
+
+00:10:57.190 --> 00:10:57.200 align:start position:0%
+with post gra right it's one of the most
+ 
+
+00:10:57.200 --> 00:10:59.910 align:start position:0%
+with post gra right it's one of the most
+popular<00:10:57.560><c> relational</c><00:10:58.040><c> databases</c><00:10:58.920><c> and</c><00:10:59.399><c> is</c><00:10:59.560><c> used</c>
+
+00:10:59.910 --> 00:10:59.920 align:start position:0%
+popular relational databases and is used
+ 
+
+00:10:59.920 --> 00:11:02.150 align:start position:0%
+popular relational databases and is used
+by<00:11:00.040><c> a</c><00:11:00.160><c> lot</c><00:11:00.320><c> of</c><00:11:00.480><c> companies</c><00:11:01.240><c> and</c><00:11:01.639><c> mostly</c><00:11:02.000><c> the</c>
+
+00:11:02.150 --> 00:11:02.160 align:start position:0%
+by a lot of companies and mostly the
+ 
+
+00:11:02.160 --> 00:11:04.190 align:start position:0%
+by a lot of companies and mostly the
+first<00:11:02.440><c> choice</c><00:11:02.760><c> these</c><00:11:02.959><c> days</c><00:11:03.279><c> for</c><00:11:03.680><c> a</c><00:11:03.839><c> lot</c><00:11:04.000><c> of</c>
+
+00:11:04.190 --> 00:11:04.200 align:start position:0%
+first choice these days for a lot of
+ 
+
+00:11:04.200 --> 00:11:06.710 align:start position:0%
+first choice these days for a lot of
+startups<00:11:04.800><c> and</c><00:11:05.240><c> Enterprise</c><00:11:05.880><c> servers</c><00:11:06.480><c> in</c><00:11:06.560><c> the</c>
+
+00:11:06.710 --> 00:11:06.720 align:start position:0%
+startups and Enterprise servers in the
+ 
+
+00:11:06.720 --> 00:11:10.470 align:start position:0%
+startups and Enterprise servers in the
+same<00:11:06.959><c> way</c><00:11:07.519><c> we</c><00:11:08.079><c> have</c><00:11:09.079><c> different</c><00:11:09.600><c> types</c><00:11:10.240><c> of</c>
+
+00:11:10.470 --> 00:11:10.480 align:start position:0%
+same way we have different types of
+ 
+
+00:11:10.480 --> 00:11:12.190 align:start position:0%
+same way we have different types of
+serialization
+
+00:11:12.190 --> 00:11:12.200 align:start position:0%
+serialization
+ 
+
+00:11:12.200 --> 00:11:15.670 align:start position:0%
+serialization
+Standards
+
+00:11:15.670 --> 00:11:15.680 align:start position:0%
+ 
+ 
+
+00:11:15.680 --> 00:11:19.870 align:start position:0%
+ 
+serialization
+
+00:11:19.870 --> 00:11:19.880 align:start position:0%
+ 
+ 
+
+00:11:19.880 --> 00:11:23.790 align:start position:0%
+ 
+standards<00:11:20.880><c> and</c><00:11:21.519><c> we</c><00:11:21.680><c> will</c><00:11:22.000><c> go</c><00:11:22.279><c> with</c><00:11:22.839><c> a</c><00:11:23.360><c> popular</c>
+
+00:11:23.790 --> 00:11:23.800 align:start position:0%
+standards and we will go with a popular
+ 
+
+00:11:23.800 --> 00:11:27.350 align:start position:0%
+standards and we will go with a popular
+one<00:11:24.360><c> the</c><00:11:24.519><c> one</c><00:11:24.920><c> that</c><00:11:25.440><c> gets</c><00:11:25.839><c> used</c><00:11:26.839><c> I</c><00:11:26.920><c> won't</c><00:11:27.200><c> give</c>
+
+00:11:27.350 --> 00:11:27.360 align:start position:0%
+one the one that gets used I won't give
+ 
+
+00:11:27.360 --> 00:11:29.949 align:start position:0%
+one the one that gets used I won't give
+a<00:11:27.480><c> number</c><00:11:27.880><c> but</c><00:11:28.519><c> if</c><00:11:28.760><c> I</c><00:11:28.959><c> had</c><00:11:29.320><c> to</c><00:11:29.440><c> given</c><00:11:29.680><c> number</c>
+
+00:11:29.949 --> 00:11:29.959 align:start position:0%
+a number but if I had to given number
+ 
+
+00:11:29.959 --> 00:11:34.269 align:start position:0%
+a number but if I had to given number
+I'll<00:11:30.160><c> say</c><00:11:30.720><c> 80%</c><00:11:31.320><c> of</c><00:11:31.440><c> the</c><00:11:31.600><c> time</c><00:11:32.000><c> which</c><00:11:32.120><c> is</c>
+
+00:11:34.269 --> 00:11:34.279 align:start position:0%
+I'll say 80% of the time which is
+ 
+
+00:11:34.279 --> 00:11:37.030 align:start position:0%
+I'll say 80% of the time which is
+Json<00:11:35.279><c> is</c><00:11:35.480><c> one</c><00:11:35.639><c> of</c><00:11:35.760><c> the</c><00:11:36.000><c> most</c><00:11:36.639><c> popular</c>
+
+00:11:37.030 --> 00:11:37.040 align:start position:0%
+Json is one of the most popular
+ 
+
+00:11:37.040 --> 00:11:38.790 align:start position:0%
+Json is one of the most popular
+serialization<00:11:37.720><c> and</c><00:11:37.920><c> deserialization</c>
+
+00:11:38.790 --> 00:11:38.800 align:start position:0%
+serialization and deserialization
+ 
+
+00:11:38.800 --> 00:11:41.310 align:start position:0%
+serialization and deserialization
+standards<00:11:39.480><c> that</c><00:11:39.680><c> gets</c><00:11:39.959><c> used</c><00:11:40.320><c> for</c><00:11:40.760><c> client</c><00:11:41.079><c> and</c>
+
+00:11:41.310 --> 00:11:41.320 align:start position:0%
+standards that gets used for client and
+ 
+
+00:11:41.320 --> 00:11:43.590 align:start position:0%
+standards that gets used for client and
+server
+
+00:11:43.590 --> 00:11:43.600 align:start position:0%
+server
+ 
+
+00:11:43.600 --> 00:11:46.509 align:start position:0%
+server
+communication<00:11:44.600><c> we</c><00:11:44.760><c> have</c><00:11:44.959><c> other</c><00:11:45.519><c> standards</c>
+
+00:11:46.509 --> 00:11:46.519 align:start position:0%
+communication we have other standards
+ 
+
+00:11:46.519 --> 00:11:49.230 align:start position:0%
+communication we have other standards
+for<00:11:46.760><c> serialization</c><00:11:47.399><c> der</c><00:11:47.600><c> serialization</c><00:11:48.560><c> that</c>
+
+00:11:49.230 --> 00:11:49.240 align:start position:0%
+for serialization der serialization that
+ 
+
+00:11:49.240 --> 00:11:52.230 align:start position:0%
+for serialization der serialization that
+does<00:11:49.519><c> not</c><00:11:49.839><c> necessarily</c><00:11:50.399><c> gets</c><00:11:50.680><c> used</c><00:11:51.079><c> for</c><00:11:51.639><c> HTTP</c>
+
+00:11:52.230 --> 00:11:52.240 align:start position:0%
+does not necessarily gets used for HTTP
+ 
+
+00:11:52.240 --> 00:11:53.870 align:start position:0%
+does not necessarily gets used for HTTP
+communication<00:11:52.800><c> but</c><00:11:52.959><c> definitely</c><00:11:53.440><c> gets</c><00:11:53.639><c> used</c>
+
+00:11:53.870 --> 00:11:53.880 align:start position:0%
+communication but definitely gets used
+ 
+
+00:11:53.880 --> 00:11:57.710 align:start position:0%
+communication but definitely gets used
+for<00:11:54.040><c> serialization</c><00:11:54.760><c> for</c><00:11:54.920><c> example</c><00:11:55.360><c> we</c><00:11:55.519><c> have</c>
+
+00:11:57.710 --> 00:11:57.720 align:start position:0%
+for serialization for example we have
+ 
+
+00:11:57.720 --> 00:12:02.110 align:start position:0%
+for serialization for example we have
+yl<00:11:58.720><c> we</c><00:11:58.880><c> have</c><00:11:59.680><c> XML</c><00:12:00.680><c> and</c><00:12:00.920><c> inside</c><00:12:01.399><c> serialization</c>
+
+00:12:02.110 --> 00:12:02.120 align:start position:0%
+yl we have XML and inside serialization
+ 
+
+00:12:02.120 --> 00:12:04.949 align:start position:0%
+yl we have XML and inside serialization
+standards<00:12:02.880><c> these</c><00:12:03.120><c> three</c><00:12:03.920><c> including</c><00:12:04.399><c> Json</c><00:12:04.800><c> and</c>
+
+00:12:04.949 --> 00:12:04.959 align:start position:0%
+standards these three including Json and
+ 
+
+00:12:04.959 --> 00:12:07.389 align:start position:0%
+standards these three including Json and
+XML<00:12:05.399><c> yaml</c><00:12:05.880><c> these</c><00:12:06.040><c> things</c><00:12:06.240><c> are</c>
+
+00:12:07.389 --> 00:12:07.399 align:start position:0%
+XML yaml these things are
+ 
+
+00:12:07.399 --> 00:12:09.670 align:start position:0%
+XML yaml these things are
+called
+
+00:12:09.670 --> 00:12:09.680 align:start position:0%
+called
+ 
+
+00:12:09.680 --> 00:12:13.750 align:start position:0%
+called
+text<00:12:10.920><c> based</c>
+
+00:12:13.750 --> 00:12:13.760 align:start position:0%
+text based
+ 
+
+00:12:13.760 --> 00:12:17.230 align:start position:0%
+text based
+serialization<00:12:14.760><c> right</c><00:12:15.720><c> we</c><00:12:15.880><c> have</c><00:12:16.240><c> another</c><00:12:17.040><c> type</c>
+
+00:12:17.230 --> 00:12:17.240 align:start position:0%
+serialization right we have another type
+ 
+
+00:12:17.240 --> 00:12:19.509 align:start position:0%
+serialization right we have another type
+of<00:12:17.519><c> serialization</c><00:12:18.519><c> standard</c><00:12:19.199><c> which</c><00:12:19.360><c> is</c>
+
+00:12:19.509 --> 00:12:19.519 align:start position:0%
+of serialization standard which is
+ 
+
+00:12:19.519 --> 00:12:23.829 align:start position:0%
+of serialization standard which is
+called<00:12:20.279><c> binary</c>
+
+00:12:23.829 --> 00:12:23.839 align:start position:0%
+ 
+ 
+
+00:12:23.839 --> 00:12:27.670 align:start position:0%
+ 
+format<00:12:24.839><c> binary</c><00:12:25.240><c> format</c><00:12:26.079><c> and</c><00:12:27.079><c> in</c><00:12:27.320><c> binary</c>
+
+00:12:27.670 --> 00:12:27.680 align:start position:0%
+format binary format and in binary
+ 
+
+00:12:27.680 --> 00:12:30.269 align:start position:0%
+format binary format and in binary
+format<00:12:28.040><c> we</c><00:12:28.240><c> have</c><00:12:28.600><c> all</c><00:12:28.959><c> again</c><00:12:29.360><c> different</c><00:12:29.639><c> types</c>
+
+00:12:30.269 --> 00:12:30.279 align:start position:0%
+format we have all again different types
+ 
+
+00:12:30.279 --> 00:12:33.509 align:start position:0%
+format we have all again different types
+and<00:12:30.519><c> the</c><00:12:30.680><c> most</c><00:12:31.000><c> popular</c><00:12:31.399><c> one</c><00:12:31.720><c> is</c><00:12:31.920><c> called</c>
+
+00:12:33.509 --> 00:12:33.519 align:start position:0%
+and the most popular one is called
+ 
+
+00:12:33.519 --> 00:12:37.069 align:start position:0%
+and the most popular one is called
+protuff<00:12:34.519><c> we</c><00:12:34.639><c> have</c><00:12:34.839><c> other</c><00:12:35.079><c> formats</c><00:12:35.600><c> also</c><00:12:36.600><c> like</c>
+
+00:12:37.069 --> 00:12:37.079 align:start position:0%
+protuff we have other formats also like
+ 
+
+00:12:37.079 --> 00:12:40.990 align:start position:0%
+protuff we have other formats also like
+a<00:12:38.079><c> etc</c><00:12:38.600><c> etc</c><00:12:39.600><c> for</c><00:12:39.800><c> serialization</c><00:12:40.440><c> standards</c><00:12:40.880><c> we</c>
+
+00:12:40.990 --> 00:12:41.000 align:start position:0%
+a etc etc for serialization standards we
+ 
+
+00:12:41.000 --> 00:12:44.430 align:start position:0%
+a etc etc for serialization standards we
+have<00:12:41.199><c> text</c><00:12:41.440><c> based</c><00:12:41.760><c> and</c><00:12:42.040><c> binary</c><00:12:42.639><c> format</c><00:12:43.560><c> and</c>
+
+00:12:44.430 --> 00:12:44.440 align:start position:0%
+have text based and binary format and
+ 
+
+00:12:44.440 --> 00:12:46.629 align:start position:0%
+have text based and binary format and
+inside<00:12:44.959><c> text</c><00:12:45.279><c> base</c><00:12:45.600><c> we</c><00:12:45.760><c> have</c><00:12:46.000><c> different</c><00:12:46.320><c> types</c>
+
+00:12:46.629 --> 00:12:46.639 align:start position:0%
+inside text base we have different types
+ 
+
+00:12:46.639 --> 00:12:50.509 align:start position:0%
+inside text base we have different types
+called<00:12:46.920><c> Json</c><00:12:47.440><c> yaml</c><00:12:47.839><c> XML</c><00:12:48.839><c> and</c><00:12:49.560><c> for</c><00:12:49.800><c> now</c><00:12:50.120><c> we</c><00:12:50.240><c> will</c>
+
+00:12:50.509 --> 00:12:50.519 align:start position:0%
+called Json yaml XML and for now we will
+ 
+
+00:12:50.519 --> 00:12:53.150 align:start position:0%
+called Json yaml XML and for now we will
+only<00:12:50.920><c> focus</c><00:12:51.199><c> on</c><00:12:51.399><c> Json</c><00:12:52.000><c> since</c><00:12:52.360><c> that's</c><00:12:52.560><c> the</c><00:12:52.800><c> most</c>
+
+00:12:53.150 --> 00:12:53.160 align:start position:0%
+only focus on Json since that's the most
+ 
+
+00:12:53.160 --> 00:12:55.430 align:start position:0%
+only focus on Json since that's the most
+popular<00:12:53.639><c> choice</c><00:12:54.240><c> for</c><00:12:54.519><c> sttb</c><00:12:55.120><c> based</c>
+
+00:12:55.430 --> 00:12:55.440 align:start position:0%
+popular choice for sttb based
+ 
+
+00:12:55.440 --> 00:12:56.750 align:start position:0%
+popular choice for sttb based
+communication<00:12:56.079><c> between</c><00:12:56.320><c> clients</c><00:12:56.639><c> and</c>
+
+00:12:56.750 --> 00:12:56.760 align:start position:0%
+communication between clients and
+ 
+
+00:12:56.760 --> 00:13:00.470 align:start position:0%
+communication between clients and
+servers<00:12:57.240><c> now</c><00:12:57.720><c> that's</c><00:12:58.199><c> clear</c><00:12:59.519><c> let's</c><00:12:59.920><c> jump</c><00:13:00.240><c> into</c>
+
+00:13:00.470 --> 00:13:00.480 align:start position:0%
+servers now that's clear let's jump into
+ 
+
+00:13:00.480 --> 00:13:04.949 align:start position:0%
+servers now that's clear let's jump into
+Json<00:13:01.040><c> and</c><00:13:01.440><c> this</c><00:13:01.839><c> is</c><00:13:02.079><c> what</c><00:13:02.240><c> a</c><00:13:02.440><c> typical</c>
+
+00:13:04.949 --> 00:13:04.959 align:start position:0%
+Json and this is what a typical
+ 
+
+00:13:04.959 --> 00:13:07.590 align:start position:0%
+Json and this is what a typical
+Json<00:13:05.959><c> object</c><00:13:06.560><c> looks</c>
+
+00:13:07.590 --> 00:13:07.600 align:start position:0%
+Json object looks
+ 
+
+00:13:07.600 --> 00:13:10.230 align:start position:0%
+Json object looks
+like<00:13:08.600><c> so</c><00:13:08.920><c> to</c><00:13:09.079><c> give</c><00:13:09.199><c> you</c><00:13:09.320><c> a</c><00:13:09.440><c> little</c><00:13:09.760><c> context</c>
+
+00:13:10.230 --> 00:13:10.240 align:start position:0%
+like so to give you a little context
+ 
+
+00:13:10.240 --> 00:13:12.910 align:start position:0%
+like so to give you a little context
+Json<00:13:10.800><c> stands</c><00:13:11.240><c> for</c><00:13:11.720><c> JavaScript</c><00:13:12.600><c> object</c>
+
+00:13:12.910 --> 00:13:12.920 align:start position:0%
+Json stands for JavaScript object
+ 
+
+00:13:12.920 --> 00:13:14.949 align:start position:0%
+Json stands for JavaScript object
+notation<00:13:13.560><c> and</c><00:13:13.720><c> you</c><00:13:13.839><c> can</c><00:13:14.040><c> read</c><00:13:14.320><c> more</c><00:13:14.560><c> about</c>
+
+00:13:14.949 --> 00:13:14.959 align:start position:0%
+notation and you can read more about
+ 
+
+00:13:14.959 --> 00:13:18.030 align:start position:0%
+notation and you can read more about
+Jon's<00:13:15.720><c> history</c><00:13:16.240><c> and</c><00:13:16.440><c> its</c><00:13:16.720><c> Evolution</c><00:13:17.480><c> from</c>
+
+00:13:18.030 --> 00:13:18.040 align:start position:0%
+Jon's history and its Evolution from
+ 
+
+00:13:18.040 --> 00:13:20.150 align:start position:0%
+Jon's history and its Evolution from
+other<00:13:18.279><c> resources</c><00:13:18.959><c> but</c><00:13:19.240><c> just</c><00:13:19.360><c> to</c><00:13:19.560><c> give</c><00:13:19.680><c> an</c><00:13:19.839><c> idea</c>
+
+00:13:20.150 --> 00:13:20.160 align:start position:0%
+other resources but just to give an idea
+ 
+
+00:13:20.160 --> 00:13:22.670 align:start position:0%
+other resources but just to give an idea
+of<00:13:20.360><c> Json</c><00:13:21.000><c> from</c><00:13:21.199><c> the</c><00:13:21.360><c> looks</c><00:13:21.639><c> of</c><00:13:21.839><c> it</c><00:13:22.240><c> and</c><00:13:22.480><c> from</c>
+
+00:13:22.670 --> 00:13:22.680 align:start position:0%
+of Json from the looks of it and from
+ 
+
+00:13:22.680 --> 00:13:26.389 align:start position:0%
+of Json from the looks of it and from
+the<00:13:22.839><c> behavior</c><00:13:23.440><c> looks</c><00:13:24.120><c> very</c><00:13:24.399><c> similar</c><00:13:25.240><c> to</c><00:13:25.480><c> a</c>
+
+00:13:26.389 --> 00:13:26.399 align:start position:0%
+the behavior looks very similar to a
+ 
+
+00:13:26.399 --> 00:13:27.910 align:start position:0%
+the behavior looks very similar to a
+JavaScript
+
+00:13:27.910 --> 00:13:27.920 align:start position:0%
+JavaScript
+ 
+
+00:13:27.920 --> 00:13:29.629 align:start position:0%
+JavaScript
+object<00:13:28.920><c> and</c>
+
+00:13:29.629 --> 00:13:29.639 align:start position:0%
+object and
+ 
+
+00:13:29.639 --> 00:13:32.790 align:start position:0%
+object and
+and<00:13:30.639><c> that's</c><00:13:30.839><c> why</c><00:13:31.000><c> you</c><00:13:31.480><c> can</c><00:13:32.480><c> understand</c><00:13:32.680><c> why</c>
+
+00:13:32.790 --> 00:13:32.800 align:start position:0%
+and that's why you can understand why
+ 
+
+00:13:32.800 --> 00:13:34.829 align:start position:0%
+and that's why you can understand why
+it's<00:13:32.959><c> name</c><00:13:33.320><c> like</c><00:13:33.560><c> that</c><00:13:34.079><c> JavaScript</c><00:13:34.600><c> object</c>
+
+00:13:34.829 --> 00:13:34.839 align:start position:0%
+it's name like that JavaScript object
+ 
+
+00:13:34.839 --> 00:13:36.550 align:start position:0%
+it's name like that JavaScript object
+notation<00:13:35.480><c> but</c><00:13:35.639><c> it</c><00:13:35.720><c> is</c><00:13:35.880><c> not</c><00:13:36.079><c> limited</c><00:13:36.399><c> to</c>
+
+00:13:36.550 --> 00:13:36.560 align:start position:0%
+notation but it is not limited to
+ 
+
+00:13:36.560 --> 00:13:39.150 align:start position:0%
+notation but it is not limited to
+JavaScript<00:13:37.199><c> and</c><00:13:37.440><c> it</c><00:13:37.560><c> is</c><00:13:37.720><c> used</c><00:13:38.160><c> everywhere</c><00:13:39.000><c> you</c>
+
+00:13:39.150 --> 00:13:39.160 align:start position:0%
+JavaScript and it is used everywhere you
+ 
+
+00:13:39.160 --> 00:13:42.350 align:start position:0%
+JavaScript and it is used everywhere you
+will<00:13:39.519><c> find</c><00:13:39.839><c> Json</c><00:13:40.639><c> in</c><00:13:41.000><c> configuration</c><00:13:41.680><c> files</c>
+
+00:13:42.350 --> 00:13:42.360 align:start position:0%
+will find Json in configuration files
+ 
+
+00:13:42.360 --> 00:13:45.350 align:start position:0%
+will find Json in configuration files
+and<00:13:42.639><c> of</c><00:13:42.839><c> course</c><00:13:43.600><c> uh</c><00:13:43.720><c> during</c><00:13:44.079><c> HTTP</c><00:13:44.639><c> rest</c><00:13:44.920><c> API</c>
+
+00:13:45.350 --> 00:13:45.360 align:start position:0%
+and of course uh during HTTP rest API
+ 
+
+00:13:45.360 --> 00:13:47.069 align:start position:0%
+and of course uh during HTTP rest API
+transmission<00:13:45.959><c> between</c><00:13:46.160><c> clients</c><00:13:46.440><c> and</c><00:13:46.639><c> servers</c>
+
+00:13:47.069 --> 00:13:47.079 align:start position:0%
+transmission between clients and servers
+ 
+
+00:13:47.079 --> 00:13:49.910 align:start position:0%
+transmission between clients and servers
+you<00:13:47.199><c> will</c><00:13:47.399><c> find</c><00:13:47.720><c> Json</c><00:13:48.120><c> in</c><00:13:48.639><c> log</c><00:13:48.959><c> file</c><00:13:49.320><c> Json</c><00:13:49.639><c> is</c><00:13:49.720><c> a</c>
+
+00:13:49.910 --> 00:13:49.920 align:start position:0%
+you will find Json in log file Json is a
+ 
+
+00:13:49.920 --> 00:13:51.949 align:start position:0%
+you will find Json in log file Json is a
+very<00:13:50.160><c> popular</c><00:13:50.560><c> choice</c><00:13:50.880><c> for</c><00:13:51.399><c> logging</c>
+
+00:13:51.949 --> 00:13:51.959 align:start position:0%
+very popular choice for logging
+ 
+
+00:13:51.959 --> 00:13:53.949 align:start position:0%
+very popular choice for logging
+application<00:13:52.440><c> data</c><00:13:52.680><c> or</c><00:13:52.839><c> server</c><00:13:53.240><c> data</c><00:13:53.639><c> during</c>
+
+00:13:53.949 --> 00:13:53.959 align:start position:0%
+application data or server data during
+ 
+
+00:13:53.959 --> 00:13:56.350 align:start position:0%
+application data or server data during
+runtime<00:13:54.560><c> it</c><00:13:54.680><c> has</c><00:13:54.839><c> a</c><00:13:54.959><c> lot</c><00:13:55.120><c> of</c><00:13:55.240><c> use</c><00:13:55.560><c> cases</c><00:13:56.040><c> for</c>
+
+00:13:56.350 --> 00:13:56.360 align:start position:0%
+runtime it has a lot of use cases for
+ 
+
+00:13:56.360 --> 00:13:59.310 align:start position:0%
+runtime it has a lot of use cases for
+this<00:13:56.519><c> use</c><00:13:56.839><c> case</c><00:13:57.040><c> we</c><00:13:57.199><c> are</c><00:13:57.480><c> going</c><00:13:57.720><c> to</c><00:13:58.040><c> focus</c><00:13:58.360><c> on</c>
+
+00:13:59.310 --> 00:13:59.320 align:start position:0%
+this use case we are going to focus on
+ 
+
+00:13:59.320 --> 00:14:00.910 align:start position:0%
+this use case we are going to focus on
+transmission<00:13:59.720><c> of</c><00:13:59.920><c> course</c><00:14:00.320><c> this</c><00:14:00.440><c> is</c><00:14:00.600><c> what</c><00:14:00.720><c> a</c>
+
+00:14:00.910 --> 00:14:00.920 align:start position:0%
+transmission of course this is what a
+ 
+
+00:14:00.920 --> 00:14:02.710 align:start position:0%
+transmission of course this is what a
+typical<00:14:01.320><c> Json</c><00:14:01.720><c> looks</c><00:14:01.959><c> like</c><00:14:02.160><c> in</c><00:14:02.279><c> the</c><00:14:02.360><c> looks</c><00:14:02.600><c> of</c>
+
+00:14:02.710 --> 00:14:02.720 align:start position:0%
+typical Json looks like in the looks of
+ 
+
+00:14:02.720 --> 00:14:04.110 align:start position:0%
+typical Json looks like in the looks of
+it<00:14:02.880><c> you</c><00:14:03.000><c> can</c><00:14:03.399><c> understand</c><00:14:03.519><c> it's</c><00:14:03.720><c> completely</c>
+
+00:14:04.110 --> 00:14:04.120 align:start position:0%
+it you can understand it's completely
+ 
+
+00:14:04.120 --> 00:14:06.829 align:start position:0%
+it you can understand it's completely
+human<00:14:04.399><c> readable</c><00:14:05.120><c> and</c><00:14:05.519><c> that</c><00:14:05.680><c> is</c><00:14:05.920><c> one</c><00:14:06.079><c> of</c><00:14:06.480><c> the</c>
+
+00:14:06.829 --> 00:14:06.839 align:start position:0%
+human readable and that is one of the
+ 
+
+00:14:06.839 --> 00:14:08.870 align:start position:0%
+human readable and that is one of the
+strong<00:14:07.160><c> points</c><00:14:07.399><c> of</c><00:14:07.560><c> Json</c><00:14:08.000><c> it</c><00:14:08.120><c> was</c><00:14:08.320><c> made</c><00:14:08.600><c> to</c><00:14:08.720><c> be</c>
+
+00:14:08.870 --> 00:14:08.880 align:start position:0%
+strong points of Json it was made to be
+ 
+
+00:14:08.880 --> 00:14:10.790 align:start position:0%
+strong points of Json it was made to be
+human<00:14:09.120><c> readable</c><00:14:09.720><c> and</c><00:14:09.880><c> the</c><00:14:10.040><c> data</c><00:14:10.279><c> types</c><00:14:10.519><c> are</c>
+
+00:14:10.790 --> 00:14:10.800 align:start position:0%
+human readable and the data types are
+ 
+
+00:14:10.800 --> 00:14:13.269 align:start position:0%
+human readable and the data types are
+also<00:14:11.199><c> pretty</c><00:14:11.519><c> fundamental</c><00:14:12.240><c> if</c><00:14:12.360><c> you</c><00:14:12.480><c> are</c><00:14:12.839><c> even</c>
+
+00:14:13.269 --> 00:14:13.279 align:start position:0%
+also pretty fundamental if you are even
+ 
+
+00:14:13.279 --> 00:14:15.189 align:start position:0%
+also pretty fundamental if you are even
+a<00:14:13.480><c> little</c><00:14:13.959><c> familiar</c><00:14:14.440><c> with</c><00:14:14.800><c> different</c>
+
+00:14:15.189 --> 00:14:15.199 align:start position:0%
+a little familiar with different
+ 
+
+00:14:15.199 --> 00:14:17.310 align:start position:0%
+a little familiar with different
+programming<00:14:15.759><c> concepts</c><00:14:16.399><c> for</c><00:14:16.560><c> example</c><00:14:17.040><c> things</c>
+
+00:14:17.310 --> 00:14:17.320 align:start position:0%
+programming concepts for example things
+ 
+
+00:14:17.320 --> 00:14:20.269 align:start position:0%
+programming concepts for example things
+to<00:14:17.600><c> focus</c><00:14:17.920><c> here</c><00:14:18.120><c> is</c><00:14:18.320><c> we</c><00:14:18.440><c> have</c><00:14:18.560><c> a</c><00:14:18.720><c> starting</c><00:14:19.279><c> CIS</c>
+
+00:14:20.269 --> 00:14:20.279 align:start position:0%
+to focus here is we have a starting CIS
+ 
+
+00:14:20.279 --> 00:14:24.230 align:start position:0%
+to focus here is we have a starting CIS
+and<00:14:20.519><c> then</c><00:14:20.759><c> ending</c><00:14:21.079><c> one</c><00:14:21.480><c> and</c><00:14:22.160><c> all</c><00:14:22.399><c> the</c><00:14:22.639><c> keys</c><00:14:23.600><c> are</c>
+
+00:14:24.230 --> 00:14:24.240 align:start position:0%
+and then ending one and all the keys are
+ 
+
+00:14:24.240 --> 00:14:26.629 align:start position:0%
+and then ending one and all the keys are
+inside<00:14:24.680><c> double</c><00:14:25.000><c> codes</c><00:14:25.480><c> so</c><00:14:25.720><c> this</c><00:14:25.839><c> is</c><00:14:26.079><c> one</c><00:14:26.279><c> rule</c>
+
+00:14:26.629 --> 00:14:26.639 align:start position:0%
+inside double codes so this is one rule
+ 
+
+00:14:26.639 --> 00:14:28.509 align:start position:0%
+inside double codes so this is one rule
+you<00:14:26.800><c> have</c><00:14:26.920><c> to</c><00:14:27.079><c> follow</c><00:14:27.480><c> the</c><00:14:27.680><c> keys</c><00:14:28.240><c> will</c><00:14:28.360><c> be</c>
+
+00:14:28.509 --> 00:14:28.519 align:start position:0%
+you have to follow the keys will be
+ 
+
+00:14:28.519 --> 00:14:30.949 align:start position:0%
+you have to follow the keys will be
+inside<00:14:28.759><c> double</c><00:14:29.199><c> Cotes</c><00:14:30.079><c> and</c><00:14:30.399><c> they</c><00:14:30.560><c> will</c><00:14:30.720><c> be</c>
+
+00:14:30.949 --> 00:14:30.959 align:start position:0%
+inside double Cotes and they will be
+ 
+
+00:14:30.959 --> 00:14:33.749 align:start position:0%
+inside double Cotes and they will be
+strings<00:14:31.720><c> you</c><00:14:32.079><c> cannot</c><00:14:32.639><c> make</c><00:14:32.959><c> any</c><00:14:33.240><c> other</c><00:14:33.519><c> data</c>
+
+00:14:33.749 --> 00:14:33.759 align:start position:0%
+strings you cannot make any other data
+ 
+
+00:14:33.759 --> 00:14:35.670 align:start position:0%
+strings you cannot make any other data
+type<00:14:34.000><c> as</c><00:14:34.120><c> a</c><00:14:34.360><c> key</c><00:14:34.600><c> keys</c><00:14:34.839><c> will</c><00:14:34.959><c> be</c><00:14:35.120><c> inside</c><00:14:35.399><c> double</c>
+
+00:14:35.670 --> 00:14:35.680 align:start position:0%
+type as a key keys will be inside double
+ 
+
+00:14:35.680 --> 00:14:37.590 align:start position:0%
+type as a key keys will be inside double
+codes<00:14:36.120><c> and</c><00:14:36.320><c> there</c><00:14:36.440><c> will</c><00:14:36.600><c> be</c><00:14:36.759><c> strings</c><00:14:37.279><c> and</c><00:14:37.440><c> in</c>
+
+00:14:37.590 --> 00:14:37.600 align:start position:0%
+codes and there will be strings and in
+ 
+
+00:14:37.600 --> 00:14:40.269 align:start position:0%
+codes and there will be strings and in
+the<00:14:37.800><c> value</c><00:14:38.519><c> it</c><00:14:38.680><c> can</c><00:14:38.839><c> be</c><00:14:38.959><c> a</c><00:14:39.120><c> string</c><00:14:39.800><c> or</c><00:14:40.000><c> it</c><00:14:40.120><c> can</c>
+
+00:14:40.269 --> 00:14:40.279 align:start position:0%
+the value it can be a string or it can
+ 
+
+00:14:40.279 --> 00:14:42.189 align:start position:0%
+the value it can be a string or it can
+be<00:14:40.399><c> a</c><00:14:40.519><c> number</c><00:14:40.920><c> it</c><00:14:41.040><c> can</c><00:14:41.160><c> be</c><00:14:41.320><c> a</c><00:14:41.399><c> bullion</c><00:14:41.920><c> or</c><00:14:42.079><c> it</c>
+
+00:14:42.189 --> 00:14:42.199 align:start position:0%
+be a number it can be a bullion or it
+ 
+
+00:14:42.199 --> 00:14:44.629 align:start position:0%
+be a number it can be a bullion or it
+can<00:14:42.360><c> be</c><00:14:42.480><c> an</c><00:14:42.639><c> array</c><00:14:43.360><c> or</c><00:14:43.600><c> it</c><00:14:43.759><c> can</c><00:14:43.920><c> be</c><00:14:44.199><c> another</c>
+
+00:14:44.629 --> 00:14:44.639 align:start position:0%
+can be an array or it can be another
+ 
+
+00:14:44.639 --> 00:14:47.509 align:start position:0%
+can be an array or it can be another
+object<00:14:45.600><c> right</c><00:14:45.920><c> Json</c><00:14:46.399><c> can</c><00:14:46.519><c> be</c><00:14:46.680><c> a</c><00:14:46.759><c> nested</c><00:14:47.160><c> object</c>
+
+00:14:47.509 --> 00:14:47.519 align:start position:0%
+object right Json can be a nested object
+ 
+
+00:14:47.519 --> 00:14:50.189 align:start position:0%
+object right Json can be a nested object
+also<00:14:48.040><c> for</c><00:14:48.199><c> example</c><00:14:48.639><c> let's</c><00:14:48.880><c> say</c><00:14:49.399><c> you</c><00:14:49.639><c> have</c><00:14:49.959><c> here</c>
+
+00:14:50.189 --> 00:14:50.199 align:start position:0%
+also for example let's say you have here
+ 
+
+00:14:50.199 --> 00:14:54.230 align:start position:0%
+also for example let's say you have here
+an<00:14:50.480><c> address</c><00:14:51.000><c> field</c><00:14:51.720><c> inside</c><00:14:52.639><c> the</c><00:14:52.800><c> same</c><00:14:53.240><c> Json</c>
+
+00:14:54.230 --> 00:14:54.240 align:start position:0%
+an address field inside the same Json
+ 
+
+00:14:54.240 --> 00:14:57.230 align:start position:0%
+an address field inside the same Json
+you<00:14:54.440><c> have</c><00:14:54.759><c> a</c><00:14:54.959><c> column</c><00:14:55.399><c> here</c><00:14:56.320><c> and</c><00:14:56.480><c> you</c><00:14:56.600><c> can</c><00:14:56.880><c> start</c>
+
+00:14:57.230 --> 00:14:57.240 align:start position:0%
+you have a column here and you can start
+ 
+
+00:14:57.240 --> 00:15:01.350 align:start position:0%
+you have a column here and you can start
+another<00:14:57.560><c> crais</c><00:14:58.320><c> here</c><00:14:58.519><c> you</c><00:14:58.600><c> can</c><00:14:58.800><c> write</c>
+
+00:15:01.350 --> 00:15:01.360 align:start position:0%
+ 
+ 
+
+00:15:01.360 --> 00:15:04.990 align:start position:0%
+ 
+country<00:15:02.360><c> you</c><00:15:02.519><c> can</c><00:15:02.839><c> say</c><00:15:03.399><c> it's</c><00:15:03.560><c> a</c><00:15:03.800><c> string</c><00:15:04.480><c> it's</c>
+
+00:15:04.990 --> 00:15:05.000 align:start position:0%
+country you can say it's a string it's
+ 
+
+00:15:05.000 --> 00:15:09.150 align:start position:0%
+country you can say it's a string it's
+India<00:15:05.720><c> and</c><00:15:05.920><c> your</c><00:15:06.120><c> phone</c><00:15:06.320><c> number</c><00:15:06.920><c> right</c><00:15:07.399><c> phone</c>
+
+00:15:09.150 --> 00:15:09.160 align:start position:0%
+India and your phone number right phone
+ 
+
+00:15:09.160 --> 00:15:12.509 align:start position:0%
+India and your phone number right phone
+number<00:15:10.160><c> and</c><00:15:10.399><c> it</c><00:15:10.519><c> can</c><00:15:10.680><c> be</c><00:15:10.800><c> a</c><00:15:10.959><c> number</c><00:15:11.639><c> something</c>
+
+00:15:12.509 --> 00:15:12.519 align:start position:0%
+number and it can be a number something
+ 
+
+00:15:12.519 --> 00:15:16.110 align:start position:0%
+number and it can be a number something
+3<00:15:12.839><c> 4</c><00:15:13.240><c> 5</c><00:15:13.680><c> 6</c><00:15:14.680><c> and</c><00:15:14.800><c> you</c><00:15:14.959><c> have</c><00:15:15.120><c> to</c><00:15:15.480><c> provide</c><00:15:15.920><c> an</c>
+
+00:15:16.110 --> 00:15:16.120 align:start position:0%
+3 4 5 6 and you have to provide an
+ 
+
+00:15:16.120 --> 00:15:17.030 align:start position:0%
+3 4 5 6 and you have to provide an
+ending
+
+00:15:17.030 --> 00:15:17.040 align:start position:0%
+ending
+ 
+
+00:15:17.040 --> 00:15:20.189 align:start position:0%
+ending
+CIS<00:15:18.040><c> right</c><00:15:18.360><c> this</c><00:15:19.040><c> is</c><00:15:19.199><c> the</c><00:15:19.399><c> typical</c><00:15:19.800><c> structure</c>
+
+00:15:20.189 --> 00:15:20.199 align:start position:0%
+CIS right this is the typical structure
+ 
+
+00:15:20.199 --> 00:15:23.150 align:start position:0%
+CIS right this is the typical structure
+of<00:15:20.360><c> Json</c><00:15:21.000><c> that's</c><00:15:21.279><c> all</c><00:15:21.519><c> there</c><00:15:21.720><c> is</c><00:15:21.839><c> to</c><00:15:22.040><c> it</c><00:15:22.880><c> uh</c><00:15:23.040><c> you</c>
+
+00:15:23.150 --> 00:15:23.160 align:start position:0%
+of Json that's all there is to it uh you
+ 
+
+00:15:23.160 --> 00:15:25.710 align:start position:0%
+of Json that's all there is to it uh you
+would<00:15:23.440><c> find</c><00:15:23.680><c> a</c><00:15:23.839><c> lot</c><00:15:24.040><c> of</c><00:15:24.320><c> Concepts</c><00:15:24.720><c> in</c><00:15:24.880><c> Json</c>
+
+00:15:25.710 --> 00:15:25.720 align:start position:0%
+would find a lot of Concepts in Json
+ 
+
+00:15:25.720 --> 00:15:26.710 align:start position:0%
+would find a lot of Concepts in Json
+these<00:15:25.839><c> are</c><00:15:26.000><c> the</c><00:15:26.160><c> things</c><00:15:26.360><c> you</c><00:15:26.480><c> have</c><00:15:26.600><c> to</c>
+
+00:15:26.710 --> 00:15:26.720 align:start position:0%
+these are the things you have to
+ 
+
+00:15:26.720 --> 00:15:29.069 align:start position:0%
+these are the things you have to
+remember<00:15:27.519><c> there</c><00:15:27.720><c> has</c><00:15:27.839><c> to</c><00:15:28.000><c> been</c><00:15:28.360><c> starting</c>
+
+00:15:29.069 --> 00:15:29.079 align:start position:0%
+remember there has to been starting
+ 
+
+00:15:29.079 --> 00:15:33.150 align:start position:0%
+remember there has to been starting
+Braes<00:15:29.279><c> and</c><00:15:29.480><c> ending</c><00:15:30.199><c> craes</c><00:15:31.199><c> and</c><00:15:31.480><c> the</c><00:15:31.920><c> keys</c><00:15:32.920><c> will</c>
+
+00:15:33.150 --> 00:15:33.160 align:start position:0%
+Braes and ending craes and the keys will
+ 
+
+00:15:33.160 --> 00:15:35.189 align:start position:0%
+Braes and ending craes and the keys will
+have<00:15:33.279><c> to</c><00:15:33.399><c> be</c><00:15:33.600><c> inside</c><00:15:33.959><c> double</c><00:15:34.199><c> quotes</c><00:15:34.959><c> and</c>
+
+00:15:35.189 --> 00:15:35.199 align:start position:0%
+have to be inside double quotes and
+ 
+
+00:15:35.199 --> 00:15:37.350 align:start position:0%
+have to be inside double quotes and
+there<00:15:35.399><c> will</c><00:15:35.720><c> there</c><00:15:35.839><c> will</c><00:15:35.959><c> be</c><00:15:36.120><c> strings</c><00:15:37.120><c> and</c><00:15:37.240><c> in</c>
+
+00:15:37.350 --> 00:15:37.360 align:start position:0%
+there will there will be strings and in
+ 
+
+00:15:37.360 --> 00:15:39.749 align:start position:0%
+there will there will be strings and in
+the<00:15:37.560><c> value</c><00:15:37.920><c> you</c><00:15:38.040><c> can</c><00:15:38.279><c> provide</c><00:15:38.639><c> an</c><00:15:38.959><c> string</c><00:15:39.600><c> a</c>
+
+00:15:39.749 --> 00:15:39.759 align:start position:0%
+the value you can provide an string a
+ 
+
+00:15:39.759 --> 00:15:43.230 align:start position:0%
+the value you can provide an string a
+number<00:15:40.240><c> a</c><00:15:40.399><c> bullion</c><00:15:40.959><c> or</c><00:15:41.079><c> an</c><00:15:41.319><c> array</c><00:15:42.199><c> or</c><00:15:42.440><c> a</c><00:15:42.759><c> nested</c>
+
+00:15:43.230 --> 00:15:43.240 align:start position:0%
+number a bullion or an array or a nested
+ 
+
+00:15:43.240 --> 00:15:45.309 align:start position:0%
+number a bullion or an array or a nested
+object<00:15:43.959><c> which</c><00:15:44.079><c> will</c><00:15:44.399><c> again</c><00:15:44.639><c> have</c><00:15:44.800><c> the</c><00:15:45.000><c> same</c>
+
+00:15:45.309 --> 00:15:45.319 align:start position:0%
+object which will again have the same
+ 
+
+00:15:45.319 --> 00:15:48.309 align:start position:0%
+object which will again have the same
+characteristics<00:15:46.160><c> of</c><00:15:46.519><c> the</c><00:15:47.519><c> initial</c><00:15:47.920><c> object</c>
+
+00:15:48.309 --> 00:15:48.319 align:start position:0%
+characteristics of the initial object
+ 
+
+00:15:48.319 --> 00:15:50.829 align:start position:0%
+characteristics of the initial object
+right<00:15:48.759><c> there'll</c><00:15:49.040><c> be</c><00:15:49.759><c> Keys</c><00:15:50.199><c> which</c><00:15:50.319><c> will</c><00:15:50.600><c> be</c>
+
+00:15:50.829 --> 00:15:50.839 align:start position:0%
+right there'll be Keys which will be
+ 
+
+00:15:50.839 --> 00:15:52.629 align:start position:0%
+right there'll be Keys which will be
+inside<00:15:51.240><c> double</c><00:15:51.560><c> quotes</c><00:15:52.120><c> and</c><00:15:52.279><c> there'll</c><00:15:52.480><c> be</c>
+
+00:15:52.629 --> 00:15:52.639 align:start position:0%
+inside double quotes and there'll be
+ 
+
+00:15:52.639 --> 00:15:55.829 align:start position:0%
+inside double quotes and there'll be
+strings<00:15:53.279><c> and</c><00:15:53.519><c> they</c><00:15:53.639><c> will</c><00:15:53.839><c> have</c><00:15:54.120><c> values</c><00:15:55.000><c> again</c>
+
+00:15:55.829 --> 00:15:55.839 align:start position:0%
+strings and they will have values again
+ 
+
+00:15:55.839 --> 00:15:58.269 align:start position:0%
+strings and they will have values again
+in<00:15:55.959><c> the</c><00:15:56.120><c> same</c><00:15:56.720><c> characteristics</c><00:15:57.720><c> so</c><00:15:58.079><c> that's</c>
+
+00:15:58.269 --> 00:15:58.279 align:start position:0%
+in the same characteristics so that's
+ 
+
+00:15:58.279 --> 00:16:00.550 align:start position:0%
+in the same characteristics so that's
+all<00:15:58.560><c> you</c><00:15:59.000><c> need</c><00:15:59.160><c> to</c><00:15:59.279><c> know</c><00:15:59.440><c> about</c>
+
+00:16:00.550 --> 00:16:00.560 align:start position:0%
+all you need to know about
+ 
+
+00:16:00.560 --> 00:16:03.749 align:start position:0%
+all you need to know about
+Json<00:16:01.560><c> this</c><00:16:02.040><c> is</c><00:16:02.560><c> one</c><00:16:02.720><c> of</c><00:16:02.839><c> the</c><00:16:03.040><c> most</c><00:16:03.360><c> popular</c>
+
+00:16:03.749 --> 00:16:03.759 align:start position:0%
+Json this is one of the most popular
+ 
+
+00:16:03.759 --> 00:16:06.629 align:start position:0%
+Json this is one of the most popular
+serialization<00:16:04.680><c> standard</c><00:16:05.680><c> that</c><00:16:05.920><c> we</c><00:16:06.120><c> use</c>
+
+00:16:06.629 --> 00:16:06.639 align:start position:0%
+serialization standard that we use
+ 
+
+00:16:06.639 --> 00:16:08.949 align:start position:0%
+serialization standard that we use
+during<00:16:07.040><c> client</c><00:16:07.319><c> and</c><00:16:07.480><c> server</c><00:16:07.959><c> communication</c>
+
+00:16:08.949 --> 00:16:08.959 align:start position:0%
+during client and server communication
+ 
+
+00:16:08.959 --> 00:16:12.030 align:start position:0%
+during client and server communication
+so<00:16:09.319><c> let's</c><00:16:09.600><c> just</c><00:16:10.079><c> see</c><00:16:10.319><c> a</c><00:16:10.480><c> simple</c><00:16:10.839><c> demo</c><00:16:11.519><c> in</c><00:16:11.720><c> fact</c>
+
+00:16:12.030 --> 00:16:12.040 align:start position:0%
+so let's just see a simple demo in fact
+ 
+
+00:16:12.040 --> 00:16:14.269 align:start position:0%
+so let's just see a simple demo in fact
+let's<00:16:12.279><c> just</c><00:16:12.480><c> see</c><00:16:12.720><c> our</c><00:16:12.959><c> earlier</c><00:16:13.319><c> demo</c><00:16:13.920><c> that</c><00:16:14.120><c> we</c>
+
+00:16:14.269 --> 00:16:14.279 align:start position:0%
+let's just see our earlier demo that we
+ 
+
+00:16:14.279 --> 00:16:16.829 align:start position:0%
+let's just see our earlier demo that we
+saw<00:16:14.519><c> in</c><00:16:14.720><c> the</c><00:16:14.959><c> previous</c><00:16:15.319><c> video</c><00:16:15.880><c> and</c><00:16:16.440><c> this</c><00:16:16.639><c> time</c>
+
+00:16:16.829 --> 00:16:16.839 align:start position:0%
+saw in the previous video and this time
+ 
+
+00:16:16.839 --> 00:16:20.030 align:start position:0%
+saw in the previous video and this time
+we'll<00:16:17.160><c> focus</c><00:16:17.480><c> on</c><00:16:17.680><c> the</c><00:16:17.880><c> request</c><00:16:18.519><c> and</c><00:16:19.040><c> response</c>
+
+00:16:20.030 --> 00:16:20.040 align:start position:0%
+we'll focus on the request and response
+ 
+
+00:16:20.040 --> 00:16:22.269 align:start position:0%
+we'll focus on the request and response
+format<00:16:20.720><c> the</c><00:16:20.920><c> serialization</c><00:16:21.880><c> and</c>
+
+00:16:22.269 --> 00:16:22.279 align:start position:0%
+format the serialization and
+ 
+
+00:16:22.279 --> 00:16:24.350 align:start position:0%
+format the serialization and
+deserialization<00:16:23.079><c> format</c><00:16:23.560><c> and</c><00:16:23.800><c> see</c><00:16:24.040><c> how</c><00:16:24.199><c> it</c>
+
+00:16:24.350 --> 00:16:24.360 align:start position:0%
+deserialization format and see how it
+ 
+
+00:16:24.360 --> 00:16:26.030 align:start position:0%
+deserialization format and see how it
+looks<00:16:24.639><c> like</c><00:16:25.079><c> pretty</c><00:16:25.319><c> much</c><00:16:25.519><c> looks</c><00:16:25.720><c> like</c><00:16:25.880><c> the</c>
+
+00:16:26.030 --> 00:16:26.040 align:start position:0%
+looks like pretty much looks like the
+ 
+
+00:16:26.040 --> 00:16:27.710 align:start position:0%
+looks like pretty much looks like the
+same<00:16:26.199><c> thing</c><00:16:26.399><c> that</c><00:16:26.560><c> we</c><00:16:26.680><c> saw</c><00:16:26.959><c> here</c><00:16:27.319><c> but</c><00:16:27.519><c> let's</c>
+
+00:16:27.710 --> 00:16:27.720 align:start position:0%
+same thing that we saw here but let's
+ 
+
+00:16:27.720 --> 00:16:29.829 align:start position:0%
+same thing that we saw here but let's
+just<00:16:27.880><c> see</c><00:16:28.040><c> in</c><00:16:28.120><c> a</c><00:16:28.279><c> real</c><00:16:28.519><c> environment</c><00:16:29.399><c> here</c><00:16:29.639><c> we</c>
+
+00:16:29.829 --> 00:16:29.839 align:start position:0%
+just see in a real environment here we
+ 
+
+00:16:29.839 --> 00:16:32.629 align:start position:0%
+just see in a real environment here we
+have<00:16:30.040><c> our</c><00:16:30.399><c> BP</c><00:16:30.680><c> Su</c><00:16:30.959><c> interface</c><00:16:31.560><c> and</c><00:16:31.839><c> this</c><00:16:32.000><c> is</c><00:16:32.199><c> the</c>
+
+00:16:32.629 --> 00:16:32.639 align:start position:0%
+have our BP Su interface and this is the
+ 
+
+00:16:32.639 --> 00:16:34.710 align:start position:0%
+have our BP Su interface and this is the
+earlier<00:16:33.040><c> demo</c><00:16:33.360><c> that</c><00:16:33.519><c> we</c><00:16:33.680><c> saw</c><00:16:33.959><c> in</c><00:16:34.079><c> our</c><00:16:34.360><c> previous</c>
+
+00:16:34.710 --> 00:16:34.720 align:start position:0%
+earlier demo that we saw in our previous
+ 
+
+00:16:34.720 --> 00:16:37.790 align:start position:0%
+earlier demo that we saw in our previous
+video<00:16:35.319><c> but</c><00:16:35.480><c> this</c><00:16:35.680><c> time</c><00:16:35.920><c> we'll</c><00:16:36.519><c> hit</c><00:16:36.720><c> an</c><00:16:36.920><c> API</c><00:16:37.519><c> and</c>
+
+00:16:37.790 --> 00:16:37.800 align:start position:0%
+video but this time we'll hit an API and
+ 
+
+00:16:37.800 --> 00:16:40.150 align:start position:0%
+video but this time we'll hit an API and
+focus<00:16:38.120><c> on</c><00:16:38.360><c> the</c><00:16:38.800><c> data</c><00:16:39.079><c> format</c><00:16:39.560><c> that</c><00:16:39.800><c> gets</c>
+
+00:16:40.150 --> 00:16:40.160 align:start position:0%
+focus on the data format that gets
+ 
+
+00:16:40.160 --> 00:16:42.430 align:start position:0%
+focus on the data format that gets
+transmitted<00:16:40.959><c> and</c><00:16:41.120><c> the</c><00:16:41.279><c> data</c><00:16:41.519><c> format</c><00:16:41.959><c> that</c>
+
+00:16:42.430 --> 00:16:42.440 align:start position:0%
+transmitted and the data format that
+ 
+
+00:16:42.440 --> 00:16:44.189 align:start position:0%
+transmitted and the data format that
+gets<00:16:42.880><c> received</c><00:16:43.160><c> from</c><00:16:43.279><c> the</c><00:16:43.440><c> client</c><00:16:43.880><c> and</c><00:16:44.040><c> from</c>
+
+00:16:44.189 --> 00:16:44.199 align:start position:0%
+gets received from the client and from
+ 
+
+00:16:44.199 --> 00:16:46.990 align:start position:0%
+gets received from the client and from
+the<00:16:44.360><c> server</c><00:16:44.720><c> so</c><00:16:45.000><c> let's</c><00:16:45.360><c> just</c><00:16:45.600><c> hit</c><00:16:45.880><c> the</c><00:16:46.160><c> post</c>
+
+00:16:46.990 --> 00:16:47.000 align:start position:0%
+the server so let's just hit the post
+ 
+
+00:16:47.000 --> 00:16:50.309 align:start position:0%
+the server so let's just hit the post
+API<00:16:48.000><c> that</c><00:16:48.360><c> was</c><00:16:48.839><c> here</c><00:16:49.240><c> post</c>
+
+00:16:50.309 --> 00:16:50.319 align:start position:0%
+API that was here post
+ 
+
+00:16:50.319 --> 00:16:53.670 align:start position:0%
+API that was here post
+books<00:16:51.319><c> and</c><00:16:51.560><c> let's</c><00:16:51.800><c> go</c><00:16:51.959><c> to</c><00:16:52.160><c> http</c><00:16:52.720><c> history</c><00:16:53.399><c> and</c>
+
+00:16:53.670 --> 00:16:53.680 align:start position:0%
+books and let's go to http history and
+ 
+
+00:16:53.680 --> 00:16:54.749 align:start position:0%
+books and let's go to http history and
+open<00:16:54.000><c> this</c>
+
+00:16:54.749 --> 00:16:54.759 align:start position:0%
+open this
+ 
+
+00:16:54.759 --> 00:16:58.949 align:start position:0%
+open this
+one<00:16:55.759><c> and</c><00:16:56.000><c> let's</c><00:16:56.800><c> expand</c><00:16:57.360><c> this</c><00:16:58.240><c> and</c><00:16:58.440><c> go</c><00:16:58.560><c> to</c><00:16:58.680><c> the</c>
+
+00:16:58.949 --> 00:16:58.959 align:start position:0%
+one and let's expand this and go to the
+ 
+
+00:16:58.959 --> 00:17:01.150 align:start position:0%
+one and let's expand this and go to the
+request<00:16:59.240><c> and</c><00:16:59.480><c> L</c><00:16:59.839><c> this</c><00:16:59.920><c> is</c><00:17:00.000><c> a</c><00:17:00.160><c> post</c><00:17:00.399><c> request</c><00:17:00.920><c> and</c>
+
+00:17:01.150 --> 00:17:01.160 align:start position:0%
+request and L this is a post request and
+ 
+
+00:17:01.160 --> 00:17:04.270 align:start position:0%
+request and L this is a post request and
+we<00:17:01.240><c> are</c><00:17:01.560><c> calling</c><00:17:01.959><c> this</c><00:17:02.639><c> path</c><00:17:02.959><c> API</c><00:17:03.360><c> SL</c><00:17:03.720><c> books</c>
+
+00:17:04.270 --> 00:17:04.280 align:start position:0%
+we are calling this path API SL books
+ 
+
+00:17:04.280 --> 00:17:06.870 align:start position:0%
+we are calling this path API SL books
+this<00:17:04.480><c> is</c><00:17:04.640><c> the</c><00:17:04.839><c> data</c><00:17:05.480><c> that</c><00:17:05.640><c> we</c><00:17:05.760><c> are</c><00:17:05.880><c> sending</c><00:17:06.559><c> so</c>
+
+00:17:06.870 --> 00:17:06.880 align:start position:0%
+this is the data that we are sending so
+ 
+
+00:17:06.880 --> 00:17:08.750 align:start position:0%
+this is the data that we are sending so
+let's<00:17:07.199><c> just</c><00:17:07.480><c> focus</c><00:17:07.760><c> on</c><00:17:07.880><c> the</c><00:17:08.039><c> request</c><00:17:08.439><c> first</c>
+
+00:17:08.750 --> 00:17:08.760 align:start position:0%
+let's just focus on the request first
+ 
+
+00:17:08.760 --> 00:17:11.069 align:start position:0%
+let's just focus on the request first
+here<00:17:09.079><c> we</c><00:17:09.199><c> can</c><00:17:09.360><c> see</c><00:17:09.679><c> our</c><00:17:10.039><c> earlier</c><00:17:10.480><c> discussed</c>
+
+00:17:11.069 --> 00:17:11.079 align:start position:0%
+here we can see our earlier discussed
+ 
+
+00:17:11.079 --> 00:17:14.909 align:start position:0%
+here we can see our earlier discussed
+Json<00:17:11.640><c> format</c><00:17:12.480><c> we</c><00:17:12.640><c> have</c><00:17:12.720><c> a</c><00:17:13.319><c> crais</c><00:17:14.319><c> and</c><00:17:14.559><c> we</c><00:17:14.679><c> have</c>
+
+00:17:14.909 --> 00:17:14.919 align:start position:0%
+Json format we have a crais and we have
+ 
+
+00:17:14.919 --> 00:17:18.429 align:start position:0%
+Json format we have a crais and we have
+all<00:17:15.079><c> the</c><00:17:15.280><c> keys</c><00:17:16.039><c> that</c><00:17:16.199><c> are</c><00:17:16.799><c> double</c><00:17:17.199><c> CED</c><00:17:18.199><c> and</c>
+
+00:17:18.429 --> 00:17:18.439 align:start position:0%
+all the keys that are double CED and
+ 
+
+00:17:18.439 --> 00:17:20.350 align:start position:0%
+all the keys that are double CED and
+those<00:17:18.559><c> are</c><00:17:18.760><c> strings</c><00:17:19.480><c> and</c><00:17:19.640><c> we</c><00:17:19.760><c> have</c><00:17:19.839><c> a</c><00:17:20.000><c> number</c>
+
+00:17:20.350 --> 00:17:20.360 align:start position:0%
+those are strings and we have a number
+ 
+
+00:17:20.360 --> 00:17:22.750 align:start position:0%
+those are strings and we have a number
+here<00:17:20.679><c> and</c><00:17:20.880><c> two</c><00:17:21.079><c> strings</c><00:17:21.600><c> like</c><00:17:21.799><c> ID</c><00:17:22.120><c> title</c><00:17:22.400><c> and</c>
+
+00:17:22.750 --> 00:17:22.760 align:start position:0%
+here and two strings like ID title and
+ 
+
+00:17:22.760 --> 00:17:26.270 align:start position:0%
+here and two strings like ID title and
+author<00:17:23.760><c> this</c><00:17:24.120><c> thing</c><00:17:25.039><c> gets</c><00:17:25.439><c> transmitted</c><00:17:26.079><c> over</c>
+
+00:17:26.270 --> 00:17:26.280 align:start position:0%
+author this thing gets transmitted over
+ 
+
+00:17:26.280 --> 00:17:29.230 align:start position:0%
+author this thing gets transmitted over
+the<00:17:26.400><c> network</c><00:17:27.280><c> so</c><00:17:27.520><c> now</c><00:17:28.280><c> one</c><00:17:28.480><c> thing</c><00:17:28.679><c> that</c><00:17:29.000><c> I</c><00:17:29.080><c> want</c>
+
+00:17:29.230 --> 00:17:29.240 align:start position:0%
+the network so now one thing that I want
+ 
+
+00:17:29.240 --> 00:17:31.830 align:start position:0%
+the network so now one thing that I want
+to<00:17:29.360><c> mention</c><00:17:29.720><c> here</c><00:17:29.880><c> is</c><00:17:30.600><c> if</c><00:17:30.760><c> you</c><00:17:31.000><c> went</c><00:17:31.400><c> deep</c><00:17:31.640><c> into</c>
+
+00:17:31.830 --> 00:17:31.840 align:start position:0%
+to mention here is if you went deep into
+ 
+
+00:17:31.840 --> 00:17:33.789 align:start position:0%
+to mention here is if you went deep into
+the<00:17:31.960><c> OSI</c><00:17:32.360><c> model</c><00:17:32.799><c> so</c><00:17:33.039><c> you</c><00:17:33.200><c> must</c><00:17:33.400><c> have</c><00:17:33.600><c> come</c>
+
+00:17:33.789 --> 00:17:33.799 align:start position:0%
+the OSI model so you must have come
+ 
+
+00:17:33.799 --> 00:17:36.549 align:start position:0%
+the OSI model so you must have come
+across<00:17:34.120><c> that</c><00:17:34.320><c> from</c><00:17:34.640><c> application</c><00:17:35.120><c> layer</c><00:17:35.520><c> to</c><00:17:36.360><c> it</c>
+
+00:17:36.549 --> 00:17:36.559 align:start position:0%
+across that from application layer to it
+ 
+
+00:17:36.559 --> 00:17:40.110 align:start position:0%
+across that from application layer to it
+gets<00:17:37.120><c> converted</c><00:17:37.640><c> into</c><00:17:38.000><c> Data</c><00:17:38.320><c> frames</c><00:17:38.960><c> and</c><00:17:39.720><c> etc</c>
+
+00:17:40.110 --> 00:17:40.120 align:start position:0%
+gets converted into Data frames and etc
+ 
+
+00:17:40.120 --> 00:17:43.230 align:start position:0%
+gets converted into Data frames and etc
+etc<00:17:40.520><c> it</c><00:17:40.640><c> gets</c><00:17:40.960><c> converted</c><00:17:41.440><c> into</c><00:17:42.240><c> IV</c><00:17:42.600><c> packets</c>
+
+00:17:43.230 --> 00:17:43.240 align:start position:0%
+etc it gets converted into IV packets
+ 
+
+00:17:43.240 --> 00:17:45.909 align:start position:0%
+etc it gets converted into IV packets
+and<00:17:43.520><c> there</c><00:17:43.679><c> is</c><00:17:43.960><c> transmission</c><00:17:44.480><c> layer</c><00:17:45.039><c> and</c><00:17:45.799><c> in</c>
+
+00:17:45.909 --> 00:17:45.919 align:start position:0%
+and there is transmission layer and in
+ 
+
+00:17:45.919 --> 00:17:48.190 align:start position:0%
+and there is transmission layer and in
+the<00:17:46.080><c> end</c><00:17:46.400><c> it</c><00:17:46.600><c> gets</c><00:17:46.840><c> converted</c><00:17:47.280><c> into</c><00:17:47.559><c> bits</c><00:17:48.000><c> with</c>
+
+00:17:48.190 --> 00:17:48.200 align:start position:0%
+the end it gets converted into bits with
+ 
+
+00:17:48.200 --> 00:17:51.590 align:start position:0%
+the end it gets converted into bits with
+0<00:17:48.520><c> one</c><00:17:48.760><c> 01</c><00:17:49.480><c> stuff</c><00:17:49.960><c> stuff</c><00:17:50.679><c> Network</c><00:17:51.160><c> related</c>
+
+00:17:51.590 --> 00:17:51.600 align:start position:0%
+0 one 01 stuff stuff Network related
+ 
+
+00:17:51.600 --> 00:17:55.270 align:start position:0%
+0 one 01 stuff stuff Network related
+stuff<00:17:52.000><c> right</c><00:17:52.919><c> so</c><00:17:53.919><c> as</c><00:17:54.039><c> a</c><00:17:54.240><c> backend</c><00:17:54.559><c> engineer</c><00:17:55.039><c> the</c>
+
+00:17:55.270 --> 00:17:55.280 align:start position:0%
+stuff right so as a backend engineer the
+ 
+
+00:17:55.280 --> 00:17:57.270 align:start position:0%
+stuff right so as a backend engineer the
+thing<00:17:55.640><c> you</c><00:17:55.840><c> have</c><00:17:55.960><c> to</c><00:17:56.159><c> focus</c><00:17:56.520><c> here</c><00:17:56.720><c> is</c><00:17:57.120><c> the</c>
+
+00:17:57.270 --> 00:17:57.280 align:start position:0%
+thing you have to focus here is the
+ 
+
+00:17:57.280 --> 00:17:59.870 align:start position:0%
+thing you have to focus here is the
+mental<00:17:57.679><c> model</c><00:17:58.120><c> you</c><00:17:58.200><c> should</c><00:17:58.480><c> have</c><00:17:58.640><c> is</c><00:17:59.240><c> you</c><00:17:59.600><c> can</c>
+
+00:17:59.870 --> 00:17:59.880 align:start position:0%
+mental model you should have is you can
+ 
+
+00:17:59.880 --> 00:18:02.549 align:start position:0%
+mental model you should have is you can
+assume<00:18:00.320><c> that</c><00:18:00.600><c> you</c><00:18:00.760><c> have</c><00:18:00.960><c> this</c><00:18:01.240><c> client</c><00:18:02.240><c> and</c><00:18:02.440><c> you</c>
+
+00:18:02.549 --> 00:18:02.559 align:start position:0%
+assume that you have this client and you
+ 
+
+00:18:02.559 --> 00:18:06.110 align:start position:0%
+assume that you have this client and you
+have<00:18:02.720><c> this</c><00:18:02.880><c> server</c><00:18:03.840><c> right</c><00:18:04.640><c> the</c><00:18:04.840><c> client</c><00:18:05.640><c> has</c><00:18:05.799><c> to</c>
+
+00:18:06.110 --> 00:18:06.120 align:start position:0%
+have this server right the client has to
+ 
+
+00:18:06.120 --> 00:18:08.590 align:start position:0%
+have this server right the client has to
+adhere<00:18:06.520><c> to</c><00:18:07.360><c> a</c><00:18:07.559><c> particular</c><00:18:07.960><c> standard</c><00:18:08.400><c> let's</c>
+
+00:18:08.590 --> 00:18:08.600 align:start position:0%
+adhere to a particular standard let's
+ 
+
+00:18:08.600 --> 00:18:09.590 align:start position:0%
+adhere to a particular standard let's
+say<00:18:08.840><c> this</c><00:18:08.960><c> is</c>
+
+00:18:09.590 --> 00:18:09.600 align:start position:0%
+say this is
+ 
+
+00:18:09.600 --> 00:18:12.149 align:start position:0%
+say this is
+Json<00:18:10.600><c> and</c><00:18:10.799><c> the</c><00:18:10.919><c> server</c><00:18:11.280><c> has</c><00:18:11.400><c> to</c><00:18:11.880><c> understand</c>
+
+00:18:12.149 --> 00:18:12.159 align:start position:0%
+Json and the server has to understand
+ 
+
+00:18:12.159 --> 00:18:14.789 align:start position:0%
+Json and the server has to understand
+this<00:18:12.360><c> standard</c><00:18:12.760><c> called</c><00:18:13.080><c> Json</c><00:18:14.080><c> we</c><00:18:14.280><c> transmit</c>
+
+00:18:14.789 --> 00:18:14.799 align:start position:0%
+this standard called Json we transmit
+ 
+
+00:18:14.799 --> 00:18:18.110 align:start position:0%
+this standard called Json we transmit
+this<00:18:15.159><c> the</c><00:18:15.280><c> server</c><00:18:16.000><c> understands</c><00:18:16.720><c> this</c><00:18:17.720><c> and</c>
+
+00:18:18.110 --> 00:18:18.120 align:start position:0%
+this the server understands this and
+ 
+
+00:18:18.120 --> 00:18:21.390 align:start position:0%
+this the server understands this and
+returns<00:18:18.400><c> some</c><00:18:18.799><c> data</c><00:18:19.159><c> again</c><00:18:19.400><c> in</c><00:18:20.360><c> Json</c><00:18:20.760><c> format</c>
+
+00:18:21.390 --> 00:18:21.400 align:start position:0%
+returns some data again in Json format
+ 
+
+00:18:21.400 --> 00:18:23.870 align:start position:0%
+returns some data again in Json format
+with<00:18:21.640><c> respect</c><00:18:22.159><c> to</c><00:18:22.440><c> your</c><00:18:22.799><c> knowledge</c><00:18:23.120><c> of</c><00:18:23.440><c> OSI</c>
+
+00:18:23.870 --> 00:18:23.880 align:start position:0%
+with respect to your knowledge of OSI
+ 
+
+00:18:23.880 --> 00:18:25.950 align:start position:0%
+with respect to your knowledge of OSI
+model<00:18:24.880><c> which</c><00:18:25.120><c> has</c><00:18:25.360><c> different</c><00:18:25.679><c> different</c>
+
+00:18:25.950 --> 00:18:25.960 align:start position:0%
+model which has different different
+ 
+
+00:18:25.960 --> 00:18:27.990 align:start position:0%
+model which has different different
+layers<00:18:26.520><c> which</c><00:18:26.880><c> the</c><00:18:27.039><c> data</c><00:18:27.280><c> gets</c><00:18:27.600><c> converted</c>
+
+00:18:27.990 --> 00:18:28.000 align:start position:0%
+layers which the data gets converted
+ 
+
+00:18:28.000 --> 00:18:29.310 align:start position:0%
+layers which the data gets converted
+into<00:18:28.200><c> different</c><00:18:28.440><c> different</c><00:18:28.799><c> formats</c><00:18:29.159><c> from</c>
+
+00:18:29.310 --> 00:18:29.320 align:start position:0%
+into different different formats from
+ 
+
+00:18:29.320 --> 00:18:32.270 align:start position:0%
+into different different formats from
+data<00:18:29.559><c> frames</c><00:18:29.880><c> to</c><00:18:30.039><c> IP</c><00:18:30.360><c> packets</c><00:18:30.880><c> to</c><00:18:31.640><c> physical</c>
+
+00:18:32.270 --> 00:18:32.280 align:start position:0%
+data frames to IP packets to physical
+ 
+
+00:18:32.280 --> 00:18:34.710 align:start position:0%
+data frames to IP packets to physical
+bits<00:18:32.760><c> that</c><00:18:32.960><c> gets</c><00:18:33.240><c> transmitted</c><00:18:34.000><c> D</c><00:18:34.360><c> with</c>
+
+00:18:34.710 --> 00:18:34.720 align:start position:0%
+bits that gets transmitted D with
+ 
+
+00:18:34.720 --> 00:18:38.070 align:start position:0%
+bits that gets transmitted D with
+voltage<00:18:35.240><c> signals</c><00:18:35.760><c> over</c><00:18:36.080><c> Optical</c><00:18:36.520><c> F</c><00:18:37.120><c> etc</c><00:18:37.600><c> etc</c>
+
+00:18:38.070 --> 00:18:38.080 align:start position:0%
+voltage signals over Optical F etc etc
+ 
+
+00:18:38.080 --> 00:18:39.830 align:start position:0%
+voltage signals over Optical F etc etc
+the<00:18:38.200><c> mental</c><00:18:38.520><c> model</c><00:18:38.840><c> to</c><00:18:39.039><c> have</c><00:18:39.200><c> is</c><00:18:39.440><c> in</c>
+
+00:18:39.830 --> 00:18:39.840 align:start position:0%
+the mental model to have is in
+ 
+
+00:18:39.840 --> 00:18:41.950 align:start position:0%
+the mental model to have is in
+application<00:18:40.240><c> layer</c><00:18:40.720><c> gets</c><00:18:41.000><c> converted</c><00:18:41.480><c> into</c>
+
+00:18:41.950 --> 00:18:41.960 align:start position:0%
+application layer gets converted into
+ 
+
+00:18:41.960 --> 00:18:44.230 align:start position:0%
+application layer gets converted into
+Json<00:18:42.559><c> as</c><00:18:42.679><c> a</c><00:18:42.799><c> backend</c><00:18:43.120><c> engineer</c><00:18:43.679><c> you</c><00:18:43.840><c> don't</c>
+
+00:18:44.230 --> 00:18:44.240 align:start position:0%
+Json as a backend engineer you don't
+ 
+
+00:18:44.240 --> 00:18:46.510 align:start position:0%
+Json as a backend engineer you don't
+that's<00:18:44.480><c> all</c><00:18:45.120><c> your</c><00:18:45.400><c> responsibility</c><00:18:46.080><c> is</c><00:18:46.360><c> does</c>
+
+00:18:46.510 --> 00:18:46.520 align:start position:0%
+that's all your responsibility is does
+ 
+
+00:18:46.520 --> 00:18:49.070 align:start position:0%
+that's all your responsibility is does
+not<00:18:46.720><c> matter</c><00:18:47.159><c> what</c><00:18:47.440><c> format</c><00:18:48.080><c> it</c><00:18:48.240><c> gets</c><00:18:48.559><c> converted</c>
+
+00:18:49.070 --> 00:18:49.080 align:start position:0%
+not matter what format it gets converted
+ 
+
+00:18:49.080 --> 00:18:51.430 align:start position:0%
+not matter what format it gets converted
+into<00:18:49.480><c> after</c><00:18:49.840><c> this</c><00:18:50.039><c> point</c><00:18:50.440><c> that</c><00:18:50.559><c> is</c><00:18:50.840><c> not</c><00:18:51.240><c> of</c>
+
+00:18:51.430 --> 00:18:51.440 align:start position:0%
+into after this point that is not of
+ 
+
+00:18:51.440 --> 00:18:53.830 align:start position:0%
+into after this point that is not of
+your<00:18:51.679><c> concern</c><00:18:52.200><c> so</c><00:18:52.559><c> it</c><00:18:52.799><c> gets</c><00:18:53.000><c> converted</c><00:18:53.400><c> into</c>
+
+00:18:53.830 --> 00:18:53.840 align:start position:0%
+your concern so it gets converted into
+ 
+
+00:18:53.840 --> 00:18:55.310 align:start position:0%
+your concern so it gets converted into
+different<00:18:54.120><c> different</c><00:18:54.400><c> formats</c><00:18:54.880><c> and</c><00:18:55.039><c> then</c><00:18:55.200><c> in</c>
+
+00:18:55.310 --> 00:18:55.320 align:start position:0%
+different different formats and then in
+ 
+
+00:18:55.320 --> 00:18:57.669 align:start position:0%
+different different formats and then in
+the<00:18:55.440><c> end</c><00:18:55.559><c> 0</c><00:18:55.799><c> 1</c><00:18:55.919><c> 01</c><00:18:56.400><c> and</c><00:18:56.559><c> then</c><00:18:56.799><c> again</c><00:18:57.120><c> it</c><00:18:57.280><c> reaches</c>
+
+00:18:57.669 --> 00:18:57.679 align:start position:0%
+the end 0 1 01 and then again it reaches
+ 
+
+00:18:57.679 --> 00:19:00.110 align:start position:0%
+the end 0 1 01 and then again it reaches
+the<00:18:57.799><c> server</c><00:18:58.280><c> reaches</c><00:18:58.760><c> 0</c><00:18:58.960><c> 1</c><00:18:59.120><c> 01</c><00:18:59.720><c> that's</c><00:18:59.960><c> it</c>
+
+00:19:00.110 --> 00:19:00.120 align:start position:0%
+the server reaches 0 1 01 that's it
+ 
+
+00:19:00.120 --> 00:19:02.110 align:start position:0%
+the server reaches 0 1 01 that's it
+reads<00:19:00.480><c> all</c><00:19:00.640><c> the</c><00:19:00.799><c> bits</c><00:19:01.120><c> and</c><00:19:01.640><c> does</c><00:19:01.840><c> all</c><00:19:02.000><c> the</c>
+
+00:19:02.110 --> 00:19:02.120 align:start position:0%
+reads all the bits and does all the
+ 
+
+00:19:02.120 --> 00:19:04.909 align:start position:0%
+reads all the bits and does all the
+network<00:19:02.480><c> related</c><00:19:02.919><c> stuff</c><00:19:03.240><c> then</c><00:19:03.960><c> it</c><00:19:04.240><c> again</c><00:19:04.600><c> gets</c>
+
+00:19:04.909 --> 00:19:04.919 align:start position:0%
+network related stuff then it again gets
+ 
+
+00:19:04.919 --> 00:19:07.070 align:start position:0%
+network related stuff then it again gets
+converted<00:19:05.400><c> into</c><00:19:05.679><c> Json</c><00:19:06.159><c> only</c><00:19:06.440><c> in</c><00:19:06.559><c> the</c><00:19:06.760><c> server</c>
+
+00:19:07.070 --> 00:19:07.080 align:start position:0%
+converted into Json only in the server
+ 
+
+00:19:07.080 --> 00:19:09.190 align:start position:0%
+converted into Json only in the server
+side<00:19:07.320><c> also</c><00:19:07.880><c> does</c><00:19:08.039><c> not</c><00:19:08.280><c> matter</c><00:19:08.600><c> what</c><00:19:08.960><c> the</c>
+
+00:19:09.190 --> 00:19:09.200 align:start position:0%
+side also does not matter what the
+ 
+
+00:19:09.200 --> 00:19:11.870 align:start position:0%
+side also does not matter what the
+intermediary<00:19:10.000><c> steps</c><00:19:10.480><c> convert</c><00:19:10.919><c> the</c><00:19:11.120><c> data</c><00:19:11.400><c> into</c>
+
+00:19:11.870 --> 00:19:11.880 align:start position:0%
+intermediary steps convert the data into
+ 
+
+00:19:11.880 --> 00:19:13.909 align:start position:0%
+intermediary steps convert the data into
+that<00:19:12.039><c> does</c><00:19:12.200><c> not</c><00:19:12.400><c> matter</c><00:19:12.840><c> before</c><00:19:13.480><c> receiving</c>
+
+00:19:13.909 --> 00:19:13.919 align:start position:0%
+that does not matter before receiving
+ 
+
+00:19:13.919 --> 00:19:16.110 align:start position:0%
+that does not matter before receiving
+before<00:19:14.840><c> in</c><00:19:14.960><c> the</c><00:19:15.320><c> receiving</c><00:19:15.559><c> end</c><00:19:15.840><c> of</c><00:19:16.000><c> the</c>
+
+00:19:16.110 --> 00:19:16.120 align:start position:0%
+before in the receiving end of the
+ 
+
+00:19:16.120 --> 00:19:18.430 align:start position:0%
+before in the receiving end of the
+server<00:19:16.640><c> the</c><00:19:16.880><c> data</c><00:19:17.320><c> again</c><00:19:17.640><c> gets</c><00:19:17.960><c> converted</c>
+
+00:19:18.430 --> 00:19:18.440 align:start position:0%
+server the data again gets converted
+ 
+
+00:19:18.440 --> 00:19:20.710 align:start position:0%
+server the data again gets converted
+into<00:19:18.760><c> this</c><00:19:18.960><c> Json</c><00:19:19.360><c> format</c><00:19:19.760><c> only</c><00:19:20.400><c> and</c><00:19:20.559><c> the</c>
+
+00:19:20.710 --> 00:19:20.720 align:start position:0%
+into this Json format only and the
+ 
+
+00:19:20.720 --> 00:19:24.350 align:start position:0%
+into this Json format only and the
+server<00:19:21.200><c> only</c><00:19:21.600><c> gets</c><00:19:21.840><c> to</c><00:19:22.039><c> read</c><00:19:22.520><c> the</c><00:19:22.760><c> Json</c><00:19:23.520><c> so</c><00:19:24.120><c> you</c>
+
+00:19:24.350 --> 00:19:24.360 align:start position:0%
+server only gets to read the Json so you
+ 
+
+00:19:24.360 --> 00:19:26.190 align:start position:0%
+server only gets to read the Json so you
+don't<00:19:24.640><c> have</c><00:19:24.799><c> to</c><00:19:24.960><c> worry</c><00:19:25.240><c> about</c><00:19:25.799><c> all</c><00:19:26.000><c> the</c>
+
+00:19:26.190 --> 00:19:26.200 align:start position:0%
+don't have to worry about all the
+ 
+
+00:19:26.200 --> 00:19:28.909 align:start position:0%
+don't have to worry about all the
+intermediary<00:19:26.960><c> steps</c><00:19:27.520><c> now</c><00:19:27.720><c> that's</c><00:19:27.960><c> clear</c><00:19:28.480><c> this</c>
+
+00:19:28.909 --> 00:19:28.919 align:start position:0%
+intermediary steps now that's clear this
+ 
+
+00:19:28.919 --> 00:19:31.750 align:start position:0%
+intermediary steps now that's clear this
+is<00:19:29.080><c> the</c><00:19:29.240><c> request</c><00:19:29.640><c> Json</c><00:19:30.480><c> that</c><00:19:30.760><c> the</c><00:19:30.919><c> client</c>
+
+00:19:31.750 --> 00:19:31.760 align:start position:0%
+is the request Json that the client
+ 
+
+00:19:31.760 --> 00:19:35.230 align:start position:0%
+is the request Json that the client
+sends<00:19:32.760><c> and</c><00:19:33.080><c> the</c><00:19:33.320><c> server</c><00:19:34.320><c> understands</c><00:19:34.799><c> this</c>
+
+00:19:35.230 --> 00:19:35.240 align:start position:0%
+sends and the server understands this
+ 
+
+00:19:35.240 --> 00:19:37.830 align:start position:0%
+sends and the server understands this
+and<00:19:35.600><c> it</c><00:19:35.760><c> takes</c><00:19:36.159><c> this</c><00:19:36.720><c> ID</c><00:19:37.159><c> and</c><00:19:37.400><c> all</c><00:19:37.600><c> these</c>
+
+00:19:37.830 --> 00:19:37.840 align:start position:0%
+and it takes this ID and all these
+ 
+
+00:19:37.840 --> 00:19:40.990 align:start position:0%
+and it takes this ID and all these
+information<00:19:38.600><c> and</c><00:19:38.840><c> adds</c><00:19:39.120><c> it</c><00:19:39.600><c> here</c><00:19:40.600><c> and</c>
+
+00:19:40.990 --> 00:19:41.000 align:start position:0%
+information and adds it here and
+ 
+
+00:19:41.000 --> 00:19:43.830 align:start position:0%
+information and adds it here and
+responds<00:19:42.000><c> with</c><00:19:42.280><c> another</c><00:19:42.679><c> Json</c><00:19:43.240><c> right</c><00:19:43.480><c> it's</c>
+
+00:19:43.830 --> 00:19:43.840 align:start position:0%
+responds with another Json right it's
+ 
+
+00:19:43.840 --> 00:19:44.870 align:start position:0%
+responds with another Json right it's
+another
+
+00:19:44.870 --> 00:19:44.880 align:start position:0%
+another
+ 
+
+00:19:44.880 --> 00:19:48.510 align:start position:0%
+another
+Json<00:19:45.880><c> so</c><00:19:46.400><c> again</c><00:19:46.760><c> we</c><00:19:46.880><c> have</c><00:19:47.120><c> the</c><00:19:47.320><c> opening</c><00:19:47.640><c> calias</c>
+
+00:19:48.510 --> 00:19:48.520 align:start position:0%
+Json so again we have the opening calias
+ 
+
+00:19:48.520 --> 00:19:52.029 align:start position:0%
+Json so again we have the opening calias
+and<00:19:48.840><c> ending</c><00:19:49.159><c> calias</c><00:19:50.120><c> we</c><00:19:50.280><c> have</c><00:19:50.520><c> one</c><00:19:50.919><c> key</c><00:19:51.919><c> which</c>
+
+00:19:52.029 --> 00:19:52.039 align:start position:0%
+and ending calias we have one key which
+ 
+
+00:19:52.039 --> 00:19:55.070 align:start position:0%
+and ending calias we have one key which
+is<00:19:52.159><c> an</c><00:19:52.360><c> array</c><00:19:52.880><c> and</c><00:19:53.120><c> each</c><00:19:53.440><c> array</c><00:19:53.919><c> has</c><00:19:54.080><c> an</c><00:19:54.320><c> object</c>
+
+00:19:55.070 --> 00:19:55.080 align:start position:0%
+is an array and each array has an object
+ 
+
+00:19:55.080 --> 00:19:57.470 align:start position:0%
+is an array and each array has an object
+again<00:19:55.720><c> it</c><00:19:55.840><c> is</c><00:19:56.080><c> also</c><00:19:56.320><c> in</c><00:19:56.480><c> Json</c><00:19:56.880><c> format</c><00:19:57.240><c> you</c><00:19:57.320><c> can</c>
+
+00:19:57.470 --> 00:19:57.480 align:start position:0%
+again it is also in Json format you can
+ 
+
+00:19:57.480 --> 00:20:00.310 align:start position:0%
+again it is also in Json format you can
+see<00:19:57.720><c> all</c><00:19:57.880><c> the</c><00:19:58.080><c> keys</c><00:19:58.320><c> are</c><00:19:58.720><c> in</c><00:19:58.840><c> double</c><00:19:59.159><c> codes</c><00:20:00.159><c> and</c>
+
+00:20:00.310 --> 00:20:00.320 align:start position:0%
+see all the keys are in double codes and
+ 
+
+00:20:00.320 --> 00:20:03.029 align:start position:0%
+see all the keys are in double codes and
+it<00:20:00.600><c> has</c><00:20:01.080><c> values</c><00:20:01.440><c> in</c><00:20:01.720><c> number</c><00:20:02.240><c> and</c><00:20:02.520><c> string</c>
+
+00:20:03.029 --> 00:20:03.039 align:start position:0%
+it has values in number and string
+ 
+
+00:20:03.039 --> 00:20:06.230 align:start position:0%
+it has values in number and string
+formats<00:20:04.039><c> and</c><00:20:04.320><c> this</c><00:20:04.440><c> is</c><00:20:04.559><c> an</c><00:20:04.760><c> array</c><00:20:05.320><c> and</c><00:20:05.520><c> it's</c>
+
+00:20:06.230 --> 00:20:06.240 align:start position:0%
+formats and this is an array and it's
+ 
+
+00:20:06.240 --> 00:20:08.549 align:start position:0%
+formats and this is an array and it's
+received<00:20:06.799><c> by</c><00:20:06.919><c> the</c><00:20:07.080><c> client</c><00:20:07.559><c> and</c><00:20:07.720><c> the</c><00:20:07.880><c> client</c>
+
+00:20:08.549 --> 00:20:08.559 align:start position:0%
+received by the client and the client
+ 
+
+00:20:08.559 --> 00:20:11.149 align:start position:0%
+received by the client and the client
+understands<00:20:08.880><c> it</c><00:20:09.600><c> and</c><00:20:09.840><c> if</c><00:20:09.960><c> you</c><00:20:10.400><c> see</c><00:20:10.760><c> here</c><00:20:11.039><c> we</c>
+
+00:20:11.149 --> 00:20:11.159 align:start position:0%
+understands it and if you see here we
+ 
+
+00:20:11.159 --> 00:20:13.510 align:start position:0%
+understands it and if you see here we
+are<00:20:11.280><c> rendering</c><00:20:11.720><c> it</c><00:20:11.919><c> here</c><00:20:12.440><c> so</c><00:20:12.840><c> the</c><00:20:13.000><c> client</c><00:20:13.320><c> is</c>
+
+00:20:13.510 --> 00:20:13.520 align:start position:0%
+are rendering it here so the client is
+ 
+
+00:20:13.520 --> 00:20:15.950 align:start position:0%
+are rendering it here so the client is
+able<00:20:13.760><c> to</c><00:20:14.559><c> receive</c><00:20:15.000><c> this</c><00:20:15.200><c> data</c><00:20:15.600><c> from</c><00:20:15.799><c> the</c>
+
+00:20:15.950 --> 00:20:15.960 align:start position:0%
+able to receive this data from the
+ 
+
+00:20:15.960 --> 00:20:18.110 align:start position:0%
+able to receive this data from the
+server<00:20:16.640><c> and</c><00:20:16.840><c> it</c><00:20:16.960><c> is</c><00:20:17.120><c> able</c><00:20:17.320><c> to</c><00:20:17.480><c> make</c><00:20:17.679><c> sense</c><00:20:17.960><c> of</c>
+
+00:20:18.110 --> 00:20:18.120 align:start position:0%
+server and it is able to make sense of
+ 
+
+00:20:18.120 --> 00:20:20.470 align:start position:0%
+server and it is able to make sense of
+it<00:20:18.320><c> it</c><00:20:18.440><c> is</c><00:20:18.600><c> able</c><00:20:18.799><c> to</c><00:20:19.039><c> pass</c><00:20:19.360><c> it</c><00:20:19.760><c> and</c><00:20:19.960><c> it</c><00:20:20.080><c> is</c><00:20:20.240><c> able</c>
+
+00:20:20.470 --> 00:20:20.480 align:start position:0%
+it it is able to pass it and it is able
+ 
+
+00:20:20.480 --> 00:20:24.110 align:start position:0%
+it it is able to pass it and it is able
+to<00:20:21.240><c> render</c><00:20:21.679><c> it</c><00:20:22.039><c> in</c><00:20:22.240><c> its</c><00:20:22.600><c> own</c><00:20:22.880><c> way</c><00:20:23.600><c> right</c><00:20:23.919><c> in</c>
+
+00:20:24.110 --> 00:20:24.120 align:start position:0%
+to render it in its own way right in
+ 
+
+00:20:24.120 --> 00:20:26.510 align:start position:0%
+to render it in its own way right in
+this<00:20:24.360><c> case</c><00:20:24.679><c> it</c><00:20:24.799><c> is</c><00:20:25.039><c> Javascript</c><00:20:25.679><c> but</c><00:20:25.880><c> it</c><00:20:26.000><c> can</c><00:20:26.200><c> be</c>
+
+00:20:26.510 --> 00:20:26.520 align:start position:0%
+this case it is Javascript but it can be
+ 
+
+00:20:26.520 --> 00:20:30.909 align:start position:0%
+this case it is Javascript but it can be
+PHP<00:20:27.000><c> also</c><00:20:27.880><c> etc</c><00:20:28.320><c> etc</c><00:20:28.799><c> right</c><00:20:29.200><c> this</c><00:20:29.320><c> is</c><00:20:29.520><c> how</c><00:20:30.240><c> Json</c>
+
+00:20:30.909 --> 00:20:30.919 align:start position:0%
+PHP also etc etc right this is how Json
+ 
+
+00:20:30.919 --> 00:20:33.149 align:start position:0%
+PHP also etc etc right this is how Json
+flow<00:20:31.320><c> looks</c><00:20:31.600><c> like</c><00:20:31.840><c> in</c><00:20:32.080><c> client</c><00:20:32.440><c> server</c><00:20:32.760><c> model</c>
+
+00:20:33.149 --> 00:20:33.159 align:start position:0%
+flow looks like in client server model
+ 
+
+00:20:33.159 --> 00:20:34.990 align:start position:0%
+flow looks like in client server model
+in<00:20:33.280><c> real</c><00:20:33.559><c> life</c><00:20:33.720><c> scenarios</c><00:20:34.320><c> it</c><00:20:34.480><c> does</c><00:20:34.640><c> not</c><00:20:34.880><c> have</c>
+
+00:20:34.990 --> 00:20:35.000 align:start position:0%
+in real life scenarios it does not have
+ 
+
+00:20:35.000 --> 00:20:36.990 align:start position:0%
+in real life scenarios it does not have
+a<00:20:35.159><c> lot</c><00:20:35.400><c> of</c><00:20:35.600><c> Concepts</c><00:20:36.039><c> realizing</c><00:20:36.640><c> in</c><00:20:36.760><c> dis</c>
+
+00:20:36.990 --> 00:20:37.000 align:start position:0%
+a lot of Concepts realizing in dis
+ 
+
+00:20:37.000 --> 00:20:38.630 align:start position:0%
+a lot of Concepts realizing in dis
+realization<00:20:37.600><c> do</c><00:20:37.760><c> not</c><00:20:37.919><c> have</c><00:20:38.039><c> a</c><00:20:38.200><c> lot</c><00:20:38.400><c> of</c>
+
+00:20:38.630 --> 00:20:38.640 align:start position:0%
+realization do not have a lot of
+ 
+
+00:20:38.640 --> 00:20:41.669 align:start position:0%
+realization do not have a lot of
+Concepts<00:20:39.320><c> it</c><00:20:39.480><c> is</c><00:20:39.919><c> a</c><00:20:40.200><c> phenomena</c><00:20:40.840><c> in</c><00:20:41.159><c> the</c>
+
+00:20:41.669 --> 00:20:41.679 align:start position:0%
+Concepts it is a phenomena in the
+ 
+
+00:20:41.679 --> 00:20:43.990 align:start position:0%
+Concepts it is a phenomena in the
+backend<00:20:42.080><c> world</c><00:20:42.559><c> that</c><00:20:42.880><c> that</c><00:20:43.120><c> exists</c><00:20:43.720><c> you</c><00:20:43.880><c> have</c>
+
+00:20:43.990 --> 00:20:44.000 align:start position:0%
+backend world that that exists you have
+ 
+
+00:20:44.000 --> 00:20:47.149 align:start position:0%
+backend world that that exists you have
+to<00:20:44.240><c> know</c><00:20:44.480><c> that</c><00:20:44.720><c> it</c><00:20:44.919><c> exists</c><00:20:45.400><c> and</c><00:20:45.919><c> Json</c><00:20:46.679><c> getting</c>
+
+00:20:47.149 --> 00:20:47.159 align:start position:0%
+to know that it exists and Json getting
+ 
+
+00:20:47.159 --> 00:20:49.510 align:start position:0%
+to know that it exists and Json getting
+transmitted<00:20:47.880><c> by</c><00:20:48.039><c> the</c><00:20:48.200><c> client</c><00:20:48.760><c> to</c><00:20:48.960><c> the</c><00:20:49.120><c> server</c>
+
+00:20:49.510 --> 00:20:49.520 align:start position:0%
+transmitted by the client to the server
+ 
+
+00:20:49.520 --> 00:20:51.350 align:start position:0%
+transmitted by the client to the server
+the<00:20:49.640><c> server</c><00:20:49.960><c> passing</c><00:20:50.360><c> it</c><00:20:50.919><c> understanding</c><00:20:51.200><c> it</c>
+
+00:20:51.350 --> 00:20:51.360 align:start position:0%
+the server passing it understanding it
+ 
+
+00:20:51.360 --> 00:20:54.230 align:start position:0%
+the server passing it understanding it
+making<00:20:51.720><c> sense</c><00:20:52.000><c> of</c><00:20:52.159><c> it</c><00:20:52.400><c> and</c><00:20:53.080><c> responding</c><00:20:53.720><c> with</c>
+
+00:20:54.230 --> 00:20:54.240 align:start position:0%
+making sense of it and responding with
+ 
+
+00:20:54.240 --> 00:20:56.430 align:start position:0%
+making sense of it and responding with
+appropriate<00:20:54.720><c> data</c><00:20:55.320><c> to</c><00:20:55.480><c> the</c><00:20:55.640><c> client</c><00:20:55.919><c> and</c><00:20:56.120><c> again</c>
+
+00:20:56.430 --> 00:20:56.440 align:start position:0%
+appropriate data to the client and again
+ 
+
+00:20:56.440 --> 00:20:57.990 align:start position:0%
+appropriate data to the client and again
+the<00:20:56.559><c> client</c><00:20:56.880><c> passing</c><00:20:57.200><c> it</c><00:20:57.640><c> understanding</c><00:20:57.840><c> it</c>
+
+00:20:57.990 --> 00:20:58.000 align:start position:0%
+the client passing it understanding it
+ 
+
+00:20:58.000 --> 00:21:00.110 align:start position:0%
+the client passing it understanding it
+making<00:20:58.240><c> sense</c><00:20:58.480><c> of</c><00:20:58.600><c> of</c><00:20:58.760><c> it</c><00:20:58.960><c> this</c><00:20:59.159><c> whole</c><00:20:59.440><c> flow</c><00:20:59.880><c> is</c>
+
+00:21:00.110 --> 00:21:00.120 align:start position:0%
+making sense of of it this whole flow is
+ 
+
+00:21:00.120 --> 00:21:02.710 align:start position:0%
+making sense of of it this whole flow is
+called
+
+00:21:02.710 --> 00:21:02.720 align:start position:0%
+ 
+ 
+
+00:21:02.720 --> 00:21:04.430 align:start position:0%
+ 
+serialization
+
+00:21:04.430 --> 00:21:04.440 align:start position:0%
+serialization
+ 
+
+00:21:04.440 --> 00:21:09.269 align:start position:0%
+serialization
+and<00:21:05.440><c> der</c>
+
+00:21:09.269 --> 00:21:09.279 align:start position:0%
+ 
+ 
+
+00:21:09.279 --> 00:21:12.390 align:start position:0%
+ 
+serialization<00:21:10.279><c> so</c><00:21:10.960><c> again</c><00:21:11.520><c> to</c><00:21:11.919><c> summarize</c>
+
+00:21:12.390 --> 00:21:12.400 align:start position:0%
+serialization so again to summarize
+ 
+
+00:21:12.400 --> 00:21:14.549 align:start position:0%
+serialization so again to summarize
+serialization<00:21:13.080><c> and</c><00:21:13.279><c> deserialization</c><00:21:14.279><c> are</c>
+
+00:21:14.549 --> 00:21:14.559 align:start position:0%
+serialization and deserialization are
+ 
+
+00:21:14.559 --> 00:21:16.950 align:start position:0%
+serialization and deserialization are
+the<00:21:14.760><c> techniques</c><00:21:15.320><c> using</c><00:21:15.720><c> which</c><00:21:16.159><c> data</c><00:21:16.640><c> is</c>
+
+00:21:16.950 --> 00:21:16.960 align:start position:0%
+the techniques using which data is
+ 
+
+00:21:16.960 --> 00:21:19.510 align:start position:0%
+the techniques using which data is
+converted<00:21:17.640><c> into</c><00:21:17.960><c> a</c><00:21:18.240><c> common</c><00:21:18.600><c> format</c><00:21:19.240><c> a</c>
+
+00:21:19.510 --> 00:21:19.520 align:start position:0%
+converted into a common format a
+ 
+
+00:21:19.520 --> 00:21:22.990 align:start position:0%
+converted into a common format a
+standard<00:21:20.080><c> format</c><00:21:20.600><c> so</c><00:21:20.840><c> that</c><00:21:21.080><c> clients</c><00:21:21.960><c> can</c><00:21:22.240><c> send</c>
+
+00:21:22.990 --> 00:21:23.000 align:start position:0%
+standard format so that clients can send
+ 
+
+00:21:23.000 --> 00:21:25.230 align:start position:0%
+standard format so that clients can send
+data<00:21:23.279><c> to</c><00:21:23.440><c> the</c><00:21:23.600><c> server</c><00:21:24.039><c> in</c><00:21:24.320><c> that</c><00:21:24.600><c> format</c><00:21:25.120><c> and</c>
+
+00:21:25.230 --> 00:21:25.240 align:start position:0%
+data to the server in that format and
+ 
+
+00:21:25.240 --> 00:21:27.950 align:start position:0%
+data to the server in that format and
+the<00:21:25.400><c> servers</c><00:21:26.080><c> can</c><00:21:26.640><c> receive</c><00:21:27.120><c> that</c><00:21:27.360><c> data</c><00:21:27.720><c> make</c>
+
+00:21:27.950 --> 00:21:27.960 align:start position:0%
+the servers can receive that data make
+ 
+
+00:21:27.960 --> 00:21:30.390 align:start position:0%
+the servers can receive that data make
+sense<00:21:28.240><c> of</c><00:21:28.880><c> pass</c><00:21:29.279><c> it</c><00:21:29.559><c> and</c><00:21:29.799><c> perform</c><00:21:30.240><c> the</c>
+
+00:21:30.390 --> 00:21:30.400 align:start position:0%
+sense of pass it and perform the
+ 
+
+00:21:30.400 --> 00:21:33.029 align:start position:0%
+sense of pass it and perform the
+business<00:21:30.760><c> logic</c><00:21:31.320><c> and</c><00:21:31.559><c> send</c><00:21:32.039><c> the</c><00:21:32.240><c> data</c><00:21:32.640><c> again</c>
+
+00:21:33.029 --> 00:21:33.039 align:start position:0%
+business logic and send the data again
+ 
+
+00:21:33.039 --> 00:21:34.990 align:start position:0%
+business logic and send the data again
+in<00:21:33.279><c> that</c><00:21:33.480><c> common</c><00:21:33.799><c> format</c><00:21:34.240><c> so</c><00:21:34.400><c> that</c><00:21:34.559><c> the</c><00:21:34.720><c> client</c>
+
+00:21:34.990 --> 00:21:35.000 align:start position:0%
+in that common format so that the client
+ 
+
+00:21:35.000 --> 00:21:36.710 align:start position:0%
+in that common format so that the client
+can<00:21:35.200><c> again</c><00:21:35.400><c> do</c><00:21:35.600><c> the</c><00:21:35.799><c> same</c><00:21:36.039><c> thing</c><00:21:36.240><c> realization</c>
+
+00:21:36.710 --> 00:21:36.720 align:start position:0%
+can again do the same thing realization
+ 
+
+00:21:36.720 --> 00:21:38.909 align:start position:0%
+can again do the same thing realization
+and<00:21:36.840><c> dation</c><00:21:37.520><c> are</c><00:21:37.840><c> basically</c><00:21:38.360><c> dealing</c><00:21:38.720><c> with</c>
+
+00:21:38.909 --> 00:21:38.919 align:start position:0%
+and dation are basically dealing with
+ 
+
+00:21:38.919 --> 00:21:41.590 align:start position:0%
+and dation are basically dealing with
+standard<00:21:39.360><c> format</c><00:21:39.760><c> so</c><00:21:39.960><c> that</c><00:21:40.240><c> data</c><00:21:40.840><c> is</c>
+
+00:21:41.590 --> 00:21:41.600 align:start position:0%
+standard format so that data is
+ 
+
+00:21:41.600 --> 00:21:43.630 align:start position:0%
+standard format so that data is
+understandable<00:21:42.159><c> across</c><00:21:42.679><c> domains</c><00:21:43.400><c> and</c>
+
+00:21:43.630 --> 00:21:43.640 align:start position:0%
+understandable across domains and
+ 
+
+00:21:43.640 --> 00:21:45.830 align:start position:0%
+understandable across domains and
+language<00:21:44.279><c> that's</c><00:21:44.480><c> all</c><00:21:44.960><c> there</c><00:21:45.120><c> is</c><00:21:45.320><c> to</c><00:21:45.480><c> it</c><00:21:45.640><c> in</c>
+
+00:21:45.830 --> 00:21:45.840 align:start position:0%
+language that's all there is to it in
+ 
+
+00:21:45.840 --> 00:21:49.679 align:start position:0%
+language that's all there is to it in
+serialization<00:21:46.640><c> and</c><00:21:46.840><c> deserialization</c>
+
